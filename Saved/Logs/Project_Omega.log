@@ -1,0 +1,1588 @@
+﻿Log file open, 03/26/21 20:08:03
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Project_Omega
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.401960
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/gunwop/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-9700F CPU @ 3.00GHz, GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.26-11.08.07:719][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.26-11.08.07:719][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Engine.ini]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Engine.ini]
+[2021.03.26-11.08.07:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Engine.ini]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Engine.ini]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.26-11.08.07:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Engine.ini]
+[2021.03.26-11.08.07:720][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Engine.ini]
+[2021.03.26-11.08.07:851][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.26-11.08.07:851][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.26-11.08.07:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.26-11.08.07:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.26-11.08.07:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.26-11.08.07:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.26-11.08.07:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.26-11.08.07:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.26-11.08.07:852][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.26-11.08.07:852][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:852][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.26-11.08.07:852][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.26-11.08.07:852][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:852][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.26-11.08.07:852][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.26-11.08.07:852][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.26-11.08.07:861][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.26-11.08.07:861][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.26-11.08.07:866][  0]LogHAL: Display: Platform has ~ 32 GB [34289586176 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.26-11.08.07:866][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.26-11.08.07:866][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Scalability.ini]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2021.03.26-11.08.07:866][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.26-11.08.07:889][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.26-11.08.07:889][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.26-11.08.07:889][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.26-11.08.07:889][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/gunwop/Documents/Project_Omega/Saved/Config/Windows/Engine.ini]
+[2021.03.26-11.08.07:905][  0]LogInit: Computer: DESKTOP-IK4ADEF
+[2021.03.26-11.08.07:905][  0]LogInit: User: gunwop
+[2021.03.26-11.08.07:905][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.03.26-11.08.07:905][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.26-11.08.07:911][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.03.26-11.08.07:913][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.26-11.08.07:913][  0]LogMemory: Process Physical Memory: 132.19 MB used, 132.20 MB peak
+[2021.03.26-11.08.07:913][  0]LogMemory: Process Virtual Memory: 109.10 MB used, 109.10 MB peak
+[2021.03.26-11.08.07:913][  0]LogMemory: Physical Memory: 8272.60 MB used,  24428.50 MB free, 32701.10 MB total
+[2021.03.26-11.08.07:913][  0]LogMemory: Virtual Memory: 134183744.00 MB used,  33984.09 MB free, 134217728.00 MB total
+[2021.03.26-11.08.07:926][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.26-11.08.08:680][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.26-11.08.08:755][  0]LogInit: Using OS detected language (ko-KR).
+[2021.03.26-11.08.08:755][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.03.26-11.08.08:873][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2021.03.26-11.08.09:211][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.26-11.08.09:493][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.26-11.08.09:935][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.26-11.08.09:935][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.26-11.08.12:860][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.26-11.08.12:860][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.26-11.08.12:860][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.26-11.08.12:860][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.26-11.08.12:942][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2021.03.26-11.08.12:942][  0]LogD3D11RHI:       8031/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.26-11.08.12:944][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.26-11.08.12:944][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.26-11.08.12:944][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.26-11.08.12:963][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.26-11.08.12:963][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.26-11.08.12:963][  0]LogWindows: EnumDisplayDevices:
+[2021.03.26-11.08.12:963][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2021.03.26-11.08.12:964][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.03.26-11.08.12:965][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.03.26-11.08.12:965][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.03.26-11.08.12:966][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.26-11.08.12:966][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2021.03.26-11.08.12:966][  0]LogD3D11RHI:   Driver Version: 457.51 (internal:27.21.14.5751, unified:457.51)
+[2021.03.26-11.08.12:966][  0]LogD3D11RHI:      Driver Date: 11-22-2020
+[2021.03.26-11.08.12:966][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.03.26-11.08.13:007][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.26-11.08.13:008][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.26-11.08.13:008][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.26-11.08.13:480][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.03.26-11.08.13:488][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.26-11.08.14:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.26-11.08.14:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.26-11.08.14:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.26-11.08.14:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.26-11.08.14:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.26-11.08.14:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.26-11.08.14:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.26-11.08.14:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.26-11.08.14:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.26-11.08.14:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.26-11.08.14:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.26-11.08.14:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.26-11.08.14:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.26-11.08.14:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.26-11.08.14:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.26-11.08.14:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.26-11.08.14:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.26-11.08.14:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.26-11.08.14:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.26-11.08.14:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.26-11.08.14:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.26-11.08.14:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.26-11.08.14:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.26-11.08.14:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.26-11.08.14:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.26-11.08.14:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.26-11.08.14:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.26-11.08.14:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.26-11.08.15:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.26-11.08.15:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.26-11.08.15:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.26-11.08.15:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.26-11.08.15:113][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.26-11.08.15:314][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.26-11.08.16:315][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.26-11.08.16:353][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (C:/Users/gunwop/Documents/Project_Omega/Intermediate/Shaders/WorkingDirectory/14872/).
+[2021.03.26-11.08.16:353][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gunwop/AppData/Local/Temp/UnrealShaderWorkingDir/7E7026574B3535950C070D85BE01539A/'.
+[2021.03.26-11.08.16:354][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.26-11.08.16:354][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.26-11.08.20:593][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.26-11.08.20:670][  0]LogDerivedDataCache: Loaded boot cache 0.08s 77MB C:/Users/gunwop/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.26-11.08.20:670][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gunwop/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.26-11.08.20:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/gunwop/Documents/Project_Omega/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.26-11.08.20:670][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.26-11.08.20:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/gunwop/Documents/Project_Omega/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.26-11.08.20:670][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.26-11.08.20:725][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.26-11.08.20:725][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.26-11.08.20:725][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.26-11.08.20:790][  0]LogDerivedDataCache: Speed tests for C:/Users/gunwop/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2021.03.26-11.08.20:790][  0]LogDerivedDataCache: Display: Performance to C:/Users/gunwop/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=135.43MBs, RandomWriteSpeed=21.51MBs. Assigned SpeedClass 'Local'
+[2021.03.26-11.08.20:790][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gunwop/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.26-11.08.20:790][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.26-11.08.20:790][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.26-11.08.20:957][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.26-11.08.21:097][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.26-11.08.21:768][  0]LogAssetRegistry: FAssetRegistry took 0.0373 seconds to start up
+[2021.03.26-11.08.28:272][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.26-11.08.28:272][  0]LogInit: Active device profile: [0000016C13E81F00][0000016C109A8240 49] Windows
+[2021.03.26-11.08.28:272][  0]LogInit: Profiles: [0000016C13E81F00][0000016C109A8240 49] Windows, [0000016C13E06000][0000016C109B03C0 49] WindowsNoEditor, [0000016C13E81300][0000016C109B4540 49] WindowsServer, [0000016C13E06B00][0000016C109B86C0 49] WindowsClient, [0000016C13E80800][0000016C109BC840 49] IOS, [0000016C13E06100][0000016C109C09C0 49] iPadAir, [0000016C13E81000][0000016C109C4B40 49] iPadAir2, [0000016C13DAE700][0000016C15A78E00 49] IPadPro, [0000016C13DAE800][0000016C109C8E40 49] iPadAir3, [0000016C13E06600][0000016C15A82FC0 49] iPadAir4, [0000016C13DAE600][0000016C15A87140 49] iPadMini2, [0000016C13E04C00][0000016C15A8B2C0 49] iPadMini3, [0000016C13DACE00][0000016C15A8F440 49] iPadMini4, [0000016C13E06300][0000016C109AD580 49] iPadMini5, [0000016C13DFA100][0000016C15A977C0 49] iPhone6, [0000016C13DFA200][0000016C15A93800 49] iPodTouch6, [0000016C13DADC00][0000016C15AA3A80 49] iPhone7, [0000016C13DADB00][0000016C15A9BAC0 49] iPodTouch7, [0000016C13DFBA00][0000016C15AA7C40 49] iPhone5S, [0000016C13DAF400][0000016C15AAA100 49] iPhone6Plus, [0000016C13DF8F00][0000016C15AAE280 49] iPhone6S, [0000016C13DAF500][0000016C15AB2400 49] iPhone6SPlus, [0000016C13DF9700][0000016C15AB6580 49] iPhone7Plus, [0000016C13DAEE00][0000016C15ABA700 49] iPhoneSE, [0000016C13DFB200][0000016C15ABE880 49] iPhone8, [0000016C13DAC600][0000016C15AC2A00 49] iPhone8Plus, [0000016C13DFBE00][0000016C15AC6B80 49] iPhoneX, [0000016C13DAF900][0000016C15ACAD00 49] iPhoneXS, [0000016C13DF8500][0000016C15ACEE80 49] iPhoneXSMax, [0000016C13DAEB00][0000016C15AD3000 49] iPhoneXR, [0000016C13DFA700][0000016C15AD7180 49] iPhone11, [0000016C13DAD600][0000016C15ADB300 49] iPhone11Pro, [0000016C13DFB400][0000016C15ADF480 49] iPhone11ProMax, [0000016C13DAE200][0000016C15AE3600 49] iPhoneSE2, [0000016C13DFBB00][0000016C15A9F740 49] iPhone12Mini, [0000016C13DAE400][0000016C15AE7880 49] iPhone12, [0000016C13DFB300][0000016C15AEB9C0 49] iPhone12Pro, [0000016C13DAC900][0000016C15AF3B40 49] iPhone12ProMax, [0000016C13DF8100][0000016C15AF7CC0 49] iPadPro105, [0000016C13DADD00][0000016C15AFA180 49] iPadPro129, [0000016C13DF9000][0000016C15AFE300 49] iPadPro97, [0000016C13DAEA00][0000016C15B02480 49] iPadPro2_129, [0000016C13DF8800][0000016C15B06600 49] iPad5, [0000016C13E81900][0000016C15B0A780 49] iPad6, [0000016C13DF8400][0000016C15B0E900 49] iPad7, [0000016C13E83100][0000016C15B12A80 49] iPad8, [0000016C13DF8B00][0000016C15B16C00 49] iPadPro11, [0000016C13E80300][0000016C15B1AD80 49] iPadPro2_11, [0000016C13DF9C00][0000016C15B1EF00 49] iPadPro3_129, [0000016C13E82A00][0000016C15B23080 49] iPadPro4_129, [0000016C13DFB900][0000016C15B27200 49] AppleTV, [0000016C13E81100][0000016C15B2B380 49] AppleTV4K, [0000016C13DFAE00][0000016C15B2F500 49] TVOS, [0000016C13E80500][0000016C15B33680 49] Mac, [0000016C13DFA800][0000016C15AEF7C0 49] MacClient, [0000016C13E81C00][0000016C15B37900 49] MacNoEditor, [0000016C13DF9300][0000016C15B3BA40 49] MacServer, [0000016C13E81600][0000016C15B3FB80 49] Linux, [0000016C13DFB800][0000016C15B47D00 49] LinuxNoEditor, [0000016C13E80C00][0000016C15B4A1C0 49] LinuxAArch64NoEditor, [0000016C13DFAA00][0000016C15B4E340 49] LinuxClient, [0000016C13E80A00][0000016C15B524C0 49] LinuxAArch64Client, [0000016C13DFAF00][0000016C15B56640 49] LinuxServer, [0000016C13E80700][0000016C15B5A7C0 49] LinuxAArch64Server, [0000016C13DF8900][0000016C15B5E940 49] Android, [0000016C13E82200][0000016C15B62AC0 49] Android_Low, [0000016C13DFB100][0000016C15B66C40 49] Android_Mid, [0000016C13E82700][0000016C15B6ADC0 49] Android_High, [0000016C13DFBC00][0000016C15B6EF40 49] Android_Default, [0000016C13E81200][0000016C15B730C0 49] Android_Adreno4xx, [0000016C13DF9B00][0000016C15B77240 49] Android_Adreno5xx_Low, [0000016C13E81700][0000016C15B7B3C0 49] Android_Adreno5xx, [0000016C13DFA400][0000016C15B7F540 49] Android_Adreno6xx, [0000016C13E80400][0000016C15B836C0 49] Android_Adreno6xx_Vulkan, [0000016C13DFAB00][0000016C15B43800 49] Android_Mali_T6xx, [0000016C13E82900][0000016C15B87940 49] Android_Mali_T7xx, [0000016C13DF9800][0000016C15B8BA80 49] Android_Mali_T8xx, [0000016C13E81800][0000016C15B8FBC0 49] Android_Mali_G71, [0000016C13DF9100][0000016C15B97D40 49] Android_Mali_G72, [0000016C13E82500][0000016C15B9A200 49] Android_Mali_G72_Vulkan, [0000016C13DF9500][0000016C15B9E380 49] Android_Mali_G76, [0000016C13E80D00][0000016C15BA2500 49] Android_Mali_G76_Vulkan, [0000016C13E05F00][0000016C15BA6680 49] Android_Mali_G77, [0000016C13DAC100][0000016C15BAA800 49] Android_Mali_G77_Vulkan, [0000016C13E06F00][0000016C15BAE980 49] Android_Vulkan_SM5, [0000016C13DAF700][0000016C15BB2B00 49] Android_PowerVR_G6xxx, [0000016C13E05300][0000016C15BB6C80 49] Android_PowerVR_GT7xxx, [0000016C13DAD700][0000016C15BBAE00 49] Android_PowerVR_GE8xxx, [0000016C13E04D00][0000016C15BBEF80 49] Android_PowerVR_GM9xxx, [0000016C13DAD900][0000016C15BC3100 49] Android_PowerVR_GM9xxx_Vulkan, [0000016C13E06E00][0000016C15BC7280 49] Android_TegraK1, [0000016C13DAFE00][0000016C15BCB400 49] Android_Unknown_Vulkan, [0000016C13E05500][0000016C15BCF580 49] Lumin, [0000016C13DADE00][0000016C15BD3700 49] Lumin_Desktop, [0000016C13E07000][0000016C15BD7880 49] HoloLens, 
+[2021.03.26-11.08.29:720][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.26-11.08.29:720][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.26-11.08.29:720][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.26-11.08.29:720][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.26-11.08.29:721][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.26-11.08.30:396][  0]LogNetVersion: Project_Omega 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2642934662)
+[2021.03.26-11.08.39:995][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.26-11.08.40:276][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.218042 seconds
+[2021.03.26-11.08.40:343][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.26-11.08.40:355][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.26-11.08.40:355][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.26-11.08.46:771][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.26-11.08.46:805][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.26-11.08.47:731][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.03.26-11.08.47:731][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.03.26-11.08.47:815][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.03.26-11.08.47:855][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.03.26-11.08.47:942][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.03.26-11.08.47:994][  0]LogUProjectInfo: Found projects:
+[2021.03.26-11.08.50:713][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.26-11.08.50:886][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.26-11.08.50:887][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.26-11.08.51:351][  0]LogCollectionManager: Loaded 0 collections in 0.001075 seconds
+[2021.03.26-11.08.51:581][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gunwop/Documents/Project_Omega/Saved/Collections/' took 0.01s
+[2021.03.26-11.08.51:581][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gunwop/Documents/Project_Omega/Content/Developers/gunwop/Collections/' took 0.00s
+[2021.03.26-11.08.51:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gunwop/Documents/Project_Omega/Content/Collections/' took 0.00s
+[2021.03.26-11.08.51:582][  0]LogOcInput: OculusInput pre-init called
+[2021.03.26-11.08.51:658][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.26-11.08.51:658][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.26-11.08.53:422][  0]LogEngine: Initializing Engine...
+[2021.03.26-11.08.53:539][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.26-11.08.53:557][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.26-11.08.53:641][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.012 s
+[2021.03.26-11.08.54:189][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.26-11.08.54:930][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.26-11.08.55:056][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.26-11.08.55:144][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.26-11.08.55:144][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.26-11.08.55:159][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.26-11.08.55:159][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.26-11.08.55:159][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.26-11.08.55:159][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.26-11.08.55:159][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.26-11.08.55:159][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.26-11.08.55:159][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.26-11.08.55:162][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.26-11.08.55:189][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.26-11.08.55:189][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.26-11.08.55:291][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.26-11.08.55:291][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.26-11.08.55:379][  0]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2021.03.26-11.08.55:408][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.26-11.08.55:439][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.26-11.08.55:447][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.26-11.08.55:448][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.26-11.08.55:450][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.26-11.08.55:450][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.26-11.08.55:450][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.26-11.08.55:450][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.26-11.08.55:450][  0]LogInit: FAudioDevice initialized.
+[2021.03.26-11.08.55:468][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.26-11.08.55:512][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.03.26-11.08.55:513][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.26-11.08.55:554][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/gunwop/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.26-11.08.55:558][  0]LogInit: Texture streaming: Enabled
+[2021.03.26-11.08.55:766][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.26-11.08.55:840][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.26-11.08.55:851][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.26-11.08.55:863][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.26-11.08.56:143][  0]LogInit: Transaction tracking system initialized
+[2021.03.26-11.08.56:509][  0]BlueprintLog: New page: 에디터 로드
+[2021.03.26-11.08.57:992][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2021.03.26-11.08.58:459][  0]TimingProfiler: Initialize
+[2021.03.26-11.08.58:461][  0]TimingProfiler: OnSessionChanged
+[2021.03.26-11.08.58:461][  0]LoadingProfiler: Initialize
+[2021.03.26-11.08.58:462][  0]LoadingProfiler: OnSessionChanged
+[2021.03.26-11.08.58:462][  0]NetworkingProfiler: Initialize
+[2021.03.26-11.08.58:462][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.26-11.08.58:462][  0]MemoryProfiler: Initialize
+[2021.03.26-11.08.58:462][  0]MemoryProfiler: OnSessionChanged
+[2021.03.26-11.09.00:964][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gunwop/Documents/Project_Omega/Content/' took 0.07s
+[2021.03.26-11.09.00:964][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.26-11.09.00:964][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.26-11.09.04:058][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.26-11.09.04:236][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.03.26-11.09.04:260][  0]LogUnrealEdMisc: Loading editor; pre map load, took 76.404
+[2021.03.26-11.09.04:308][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.26-11.09.04:347][  0]LightingResults: New page: 라이팅 빌드
+[2021.03.26-11.09.04:516][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.26-11.09.04:620][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.26-11.09.04:742][  0]MapCheck: New page: 맵 체크
+[2021.03.26-11.09.04:742][  0]LightingResults: New page: 라이팅 빌드
+[2021.03.26-11.09.05:565][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2021.03.26-11.09.06:330][  0]LogTexture: Display: 텍스처 빌드: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.03.26-11.09.06:418][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.03.26-11.09.06:427][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.03.26-11.09.07:178][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.26-11.09.07:414][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.26-11.09.07:423][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.26-11.09.07:423][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.516ms.
+[2021.03.26-11.09.07:424][  0]LogFileHelpers: Loading map 'Template_Default' took 3.145
+[2021.03.26-11.09.08:777][  0]LogUnrealEdMisc: Total Editor Startup Time, took 80.922
+[2021.03.26-11.09.09:689][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.26-11.09.09:695][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.26-11.09.09:699][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.26-11.09.09:703][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.26-11.09.09:988][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0151 seconds. Added 3602 classes and 861 folders.
+[2021.03.26-11.09.10:175][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.26-11.09.10:326][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.26-11.09.10:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.26-11.09.10:345][  0]LogPakFile: OnPakFileMounted2Time == 0.018319
+[2021.03.26-11.09.10:383][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.26-11.09.10:383][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:383][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.26-11.09.10:383][  0]LogPakFile: OnPakFileMounted2Time == 0.018323
+[2021.03.26-11.09.10:394][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.26-11.09.10:394][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:394][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.26-11.09.10:394][  0]LogPakFile: OnPakFileMounted2Time == 0.018327
+[2021.03.26-11.09.10:407][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.26-11.09.10:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:408][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.26-11.09.10:408][  0]LogPakFile: OnPakFileMounted2Time == 0.018331
+[2021.03.26-11.09.10:421][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.26-11.09.10:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.26-11.09.10:421][  0]LogPakFile: OnPakFileMounted2Time == 0.018335
+[2021.03.26-11.09.10:426][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.26-11.09.10:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.26-11.09.10:426][  0]LogPakFile: OnPakFileMounted2Time == 0.018337
+[2021.03.26-11.09.10:431][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.26-11.09.10:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.26-11.09.10:431][  0]LogPakFile: OnPakFileMounted2Time == 0.018340
+[2021.03.26-11.09.10:438][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.26-11.09.10:438][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.26-11.09.10:438][  0]LogPakFile: OnPakFileMounted2Time == 0.018342
+[2021.03.26-11.09.10:445][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.26-11.09.10:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.26-11.09.10:445][  0]LogPakFile: OnPakFileMounted2Time == 0.018345
+[2021.03.26-11.09.10:451][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.26-11.09.10:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.26-11.09.10:451][  0]LogPakFile: OnPakFileMounted2Time == 0.018348
+[2021.03.26-11.09.10:456][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.26-11.09.10:456][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.26-11.09.10:456][  0]LogPakFile: OnPakFileMounted2Time == 0.018350
+[2021.03.26-11.09.10:463][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.26-11.09.10:463][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.26-11.09.10:463][  0]LogPakFile: OnPakFileMounted2Time == 0.018353
+[2021.03.26-11.09.10:468][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.26-11.09.10:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.26-11.09.10:468][  0]LogPakFile: OnPakFileMounted2Time == 0.018355
+[2021.03.26-11.09.10:483][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.26-11.09.10:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.26-11.09.10:483][  0]LogPakFile: OnPakFileMounted2Time == 0.018358
+[2021.03.26-11.09.10:488][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.26-11.09.10:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.26-11.09.10:488][  0]LogPakFile: OnPakFileMounted2Time == 0.018361
+[2021.03.26-11.09.10:494][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.26-11.09.10:495][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:495][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.26-11.09.10:495][  0]LogPakFile: OnPakFileMounted2Time == 0.018364
+[2021.03.26-11.09.10:507][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.26-11.09.10:507][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:507][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.26-11.09.10:507][  0]LogPakFile: OnPakFileMounted2Time == 0.018368
+[2021.03.26-11.09.10:512][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.26-11.09.10:512][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:512][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.26-11.09.10:512][  0]LogPakFile: OnPakFileMounted2Time == 0.018371
+[2021.03.26-11.09.10:518][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.26-11.09.10:518][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:518][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.26-11.09.10:518][  0]LogPakFile: OnPakFileMounted2Time == 0.018375
+[2021.03.26-11.09.10:527][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.26-11.09.10:527][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:527][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.26-11.09.10:527][  0]LogPakFile: OnPakFileMounted2Time == 0.018378
+[2021.03.26-11.09.10:533][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.26-11.09.10:533][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:533][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.26-11.09.10:533][  0]LogPakFile: OnPakFileMounted2Time == 0.018381
+[2021.03.26-11.09.10:537][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.26-11.09.10:537][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:537][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.26-11.09.10:537][  0]LogPakFile: OnPakFileMounted2Time == 0.018384
+[2021.03.26-11.09.10:543][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.26-11.09.10:543][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:543][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.26-11.09.10:543][  0]LogPakFile: OnPakFileMounted2Time == 0.018386
+[2021.03.26-11.09.10:549][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.26-11.09.10:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.26-11.09.10:549][  0]LogPakFile: OnPakFileMounted2Time == 0.018389
+[2021.03.26-11.09.10:555][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.26-11.09.10:555][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:555][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.26-11.09.10:555][  0]LogPakFile: OnPakFileMounted2Time == 0.018392
+[2021.03.26-11.09.10:560][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.26-11.09.10:560][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.26-11.09.10:560][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.26-11.09.10:560][  0]LogPakFile: OnPakFileMounted2Time == 0.018395
+[2021.03.26-11.09.11:180][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.26-11.09.11:283][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.03.26-11.09.11:506][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.03.26-11.09.11:532][  0]LogSlate: The tab "ComposureLayers" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.03.26-11.09.12:607][  0]LogSlate: Took 0.078437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.26-11.09.12:689][  0]LogSlate: Took 0.046310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.03.26-11.09.12:769][  0]LogSlate: Took 0.048407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.03.26-11.09.12:783][  0]LogSlate: Took 0.013291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.26-11.09.12:866][  0]LogSlate: Took 0.020788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.26-11.09.14:123][  0]LogRenderer: Reallocating scene render targets to support 1232x536 Format 10 NumSamples 1 (Frame:1).
+[2021.03.26-11.09.15:091][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.26-11.09.15:091][  0]LogLoad: (Engine Initialization) Total time: 87.24 seconds
+[2021.03.26-11.09.15:091][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.26-11.09.15:109][  0]LogInit: First time updating LLM stats...
+[2021.03.26-11.09.15:762][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.03.26-11.09.16:430][  2]LogAssetRegistry: Asset discovery search completed in 54.6637 seconds
+[2021.03.26-11.09.16:454][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000318 seconds (updated 0 objects)
+[2021.03.26-11.09.16:568][  2]LogSlate: Took 0.012116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.26-11.09.26:462][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.03.26-11.09.26:497][111]LogSlate: Took 0.001912 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.26-11.09.28:398][111]LogTexture: Display: 텍스처 빌드: T_MaskDummy (AutoDXT, 64X64)
+[2021.03.26-11.09.28:398][111]LogTexture: Display: 텍스처 빌드: T_GlansDetail_N (BC5, 2048X2048)
+[2021.03.26-11.09.28:398][111]LogTexture: Display: 텍스처 빌드: T_DirtLeakAO_M (AutoDXT, 2048X2048)
+[2021.03.26-11.09.28:398][111]LogTexture: Display: 텍스처 빌드: T_MonolithMossMask (AutoDXT, 2048X2048)
+[2021.03.26-11.09.28:398][111]LogTexture: Display: 텍스처 빌드: T_FieldScabious01_N (BC5, 2048X2048)
+[2021.03.26-11.09.28:398][111]LogTexture: Display: 텍스처 빌드: T_Ruins_Player_Pedestal_N (BC5, 4096X4096)
+[2021.03.26-11.09.28:398][111]LogTexture: Display: 텍스처 빌드: T_Ruins_Player_Pedestal_M (AutoDXT, 4096X4096)
+[2021.03.26-11.09.28:398][111]LogTexture: Display: 텍스처 빌드: T_Ruins_BuffFloorB_M (AutoDXT, 4096X4096)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_FieldScabious01_M (AutoDXT, 2048X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_FieldScabious01_D (AutoDXT, 2048X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_Buttercup_Patch_01_M (AutoDXT, 2048X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_Buttercup_Patch_01_D (AutoDXT, 2048X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_BogMyrtle_01_Atlas_Billboards_Tex (AutoDXT, 2048X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_BogMyrtle_01_Atlas_Billboards_Normal_Tex (BC5, 2048X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: Base_Wall_Piece_Metal_N (BC5, 4096X4096)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: TerminusNose_N (BC5, 2048X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: TerminusGateway_N (BC5, 2048X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: TerminusGateTrim_N (BC5, 2048X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_Rainbow (AutoDXT, 1024X1024)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_ShellColor (AutoDXT, 512X512)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_RBlackGBlackBWhite_M (AutoDXT, 64X64)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_PatternNew_N (BC5, 2048X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_PattenNew_M (AutoDXT, 2048X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_RockTile_N (BC5, 2048X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_Cliff01_N (BC5, 8192X8192)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_MarbleMix_D (AutoDXT, 4096X4096)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: checker (AutoDXT, 512X512)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: Dawn_Stairs_N (BC5, 1024X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: OldGold_M (DXT1, 2048X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: Dawn_Stairs_M (AutoDXT, 1024X2048)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: Base_Wall_Piece_J_N (BC5, 4096X4096)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: Base_Wall_Piece_K_Carving_N (BC5, 4096X4096)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: Base_Wall_Piece_FD_Carving_N (BC5, 4096X4096)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_Jungle_Wall02B_N (BC5, 4096X4096)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_Jungle_Wall02B_M (AutoDXT, 4096X4096)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece01B_N (BC5, 4096X4096)
+[2021.03.26-11.09.43:465][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece01B_M (AutoDXT, 4096X4096)
+[2021.03.26-11.09.44:059][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece03B_N (BC5, 4096X4096)
+[2021.03.26-11.09.44:059][111]LogTexture: Display: 텍스처 빌드: T_JungleWall_01B_N (BC5, 4096X4096)
+[2021.03.26-11.09.44:059][111]LogTexture: Display: 텍스처 빌드: T_Ruins_BuffFloorB_N (BC5, 4096X4096)
+[2021.03.26-11.09.46:117][111]LogTexture: Display: 텍스처 빌드: T_JungleWall_01B_M (AutoDXT, 4096X4096)
+[2021.03.26-11.09.46:117][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlock02A_N (BC5, 4096X4096)
+[2021.03.26-11.09.46:226][111]LogTexture: Display: 텍스처 빌드: T_Jungle_Metal_A (AutoDXT, 2048X2048)
+[2021.03.26-11.09.48:033][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece03B_M (AutoDXT, 4096X4096)
+[2021.03.26-11.09.48:033][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlock02A_M (AutoDXT, 4096X4096)
+[2021.03.26-11.09.48:033][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece03A_N (BC5, 4096X4096)
+[2021.03.26-11.09.48:143][111]LogTexture: Display: 텍스처 빌드: T_Jungle_Metal_M (AutoDXT, 2048X2048)
+[2021.03.26-11.09.52:751][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece03A_M (AutoDXT, 4096X4096)
+[2021.03.26-11.09.52:751][111]LogTexture: Display: 텍스처 빌드: T_MountainRock_Closed_D2 (AutoDXT, 8192X8192)
+[2021.03.26-11.09.52:751][111]LogTexture: Display: 텍스처 빌드: T_MountainRock_Closed_N (BC5, 8192X8192)
+[2021.03.26-11.09.52:751][111]LogTexture: Display: 텍스처 빌드: T_Tile_PebblyRiverbank_H (AutoDXT, 8192X8192)
+[2021.03.26-11.09.52:814][111]LogTexture: Display: 텍스처 빌드: T_Kurohane_Metal_Tiling_N (BC5, 2048X2048)
+[2021.03.26-11.09.53:447][111]LogTexture: Display: 텍스처 빌드: T_UnpleasentGrime_D (AutoDXT, 2048X2048)
+[2021.03.26-11.10.00:087][111]LogTexture: Display: 텍스처 빌드: T_CliffRockTile_03_D (AutoDXT, 2048X2048)
+[2021.03.26-11.10.00:088][111]LogTexture: Display: 텍스처 빌드: T_Tile_PebblyRiverbank_N (BC5, 8192X8192)
+[2021.03.26-11.10.00:088][111]LogTexture: Display: 텍스처 빌드: T_CliffRock_03_N (BC5, 4096X4096)
+[2021.03.26-11.10.00:091][111]LogMaterial: Display: Missing cached shader map for material M_Jungle_Metal, compiling. 
+[2021.03.26-11.10.00:349][111]LogMaterial: Display: Missing cached shader map for material M_JungleArchitecture, compiling. 
+[2021.03.26-11.10.00:505][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2021.03.26-11.10.00:506][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2021.03.26-11.10.00:506][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2021.03.26-11.10.00:506][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.03.26-11.10.00:506][111]LogStaticMesh: Ruins_Player_Pedestal_Inner 스태틱 메시 빌드중...
+[2021.03.26-11.10.00:576][111]LogStaticMesh: Built static mesh [0.07s] /Game/ParagonProps/Monolith/Ruins/Meshes/Ruins_Player_Pedestal_Inner.Ruins_Player_Pedestal_Inner
+[2021.03.26-11.10.00:909][111]LogStaticMesh: Ruins_GreenBuffFloor 스태틱 메시 빌드중...
+[2021.03.26-11.10.01:449][111]LogStaticMesh: Built static mesh [0.54s] /Game/ParagonProps/Monolith/Ruins/Meshes/Ruins_GreenBuffFloor.Ruins_GreenBuffFloor
+[2021.03.26-11.10.01:464][111]LogMaterial: Display: Missing cached shader map for material M_FieldScabious_01, compiling. 
+[2021.03.26-11.10.01:536][111]LogStaticMesh: SM_FieldScabious_01 스태틱 메시 빌드중...
+[2021.03.26-11.10.01:985][111]LogStaticMesh: Built static mesh [0.45s] /Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.SM_FieldScabious_01
+[2021.03.26-11.10.01:992][111]LogMaterial: Display: Missing cached shader map for material M_Buttercup_Patch_01, compiling. 
+[2021.03.26-11.10.02:039][111]LogStaticMesh: SM_Buttercup_Patch_01 스태틱 메시 빌드중...
+[2021.03.26-11.10.02:059][111]LogStaticMesh: Built static mesh [0.02s] /Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.SM_Buttercup_Patch_01
+[2021.03.26-11.10.02:075][111]LogStaticMesh: SM_Fern_03 스태틱 메시 빌드중...
+[2021.03.26-11.10.02:267][111]LogStaticMesh: Built static mesh [0.19s] /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03.SM_Fern_03
+[2021.03.26-11.10.02:416][111]LogTexture: Display: 텍스처 빌드: T_Fern_01_D (AutoDXT, 2048X2048)
+[2021.03.26-11.10.04:628][111]LogTexture: Display: 텍스처 빌드: T_ground_Moss_D (AutoDXT, 2048X2048)
+[2021.03.26-11.10.04:628][111]LogTexture: Display: 텍스처 빌드: T_Caustics_Softer (AutoDXT, 1024X1024)
+[2021.03.26-11.10.04:727][111]LogTexture: Display: 텍스처 빌드: T_Fern_01_N (BC5, 2048X2048)
+[2021.03.26-11.10.05:122][111]LogTexture: Display: 텍스처 빌드: T_Water_Screen_Noise_Soft2 (AutoDXT, 1024X1024)
+[2021.03.26-11.10.05:515][111]LogTexture: Display: 텍스처 빌드: T_Water_Screen_Noise_Soft2 (AutoDXT, 1024X1024)
+[2021.03.26-11.10.05:537][111]LogMaterial: Display: Missing cached shader map for material M_Fern_01, compiling. 
+[2021.03.26-11.10.05:599][111]LogTexture: Display: 텍스처 빌드: T_FireBall (AutoDXT, 512X512)
+[2021.03.26-11.10.05:599][111]LogTexture: Display: 텍스처 빌드: T_Water_Screen_Noise_Soft (AutoDXT, 1024X1024)
+[2021.03.26-11.10.05:989][111]LogMaterial: Display: Missing cached shader map for material M_Fern_01, compiling. 
+[2021.03.26-11.10.06:050][111]LogStaticMesh: SM_Fern_02 스태틱 메시 빌드중...
+[2021.03.26-11.10.06:235][111]LogStaticMesh: Built static mesh [0.19s] /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02.SM_Fern_02
+[2021.03.26-11.10.06:292][111]LogStaticMesh: BogMyrtleBush_02 스태틱 메시 빌드중...
+[2021.03.26-11.10.06:415][111]LogStaticMesh: Built static mesh [0.12s] /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02.BogMyrtleBush_02
+[2021.03.26-11.10.06:431][111]LogMaterial: Display: Missing cached shader map for material BogMyrtle_01_Billboard_Mat, compiling. 
+[2021.03.26-11.10.06:489][111]LogStaticMesh: BogMyrtle_01 스태틱 메시 빌드중...
+[2021.03.26-11.10.07:031][111]LogTexture: Display: 텍스처 빌드: T_GDC_Tiling_LeafPathStones_H (AutoDXT, 4096X4096)
+[2021.03.26-11.10.07:039][111]LogStaticMesh: Built static mesh [0.55s] /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01.BogMyrtle_01
+[2021.03.26-11.10.11:616][111]LogTexture: Display: 텍스처 빌드: T_GDC_StonePath_Tile_H (AutoDXT, 8192X8192)
+[2021.03.26-11.10.11:616][111]LogTexture: Display: 텍스처 빌드: T_GDC_StonePath_Tile_N (BC5, 8192X8192)
+[2021.03.26-11.10.11:616][111]LogTexture: Display: 텍스처 빌드: T_ScotsPine_Bark_03_N (BC5, 512X4096)
+[2021.03.26-11.10.11:616][111]LogTexture: Display: 텍스처 빌드: T_ScotsPine_Bark_03_D_Tex (AutoDXT, 512X4096)
+[2021.03.26-11.10.11:616][111]LogTexture: Display: 텍스처 빌드: T_GDC_Tiling_LeafpathStones_N (BC5, 4096X4096)
+[2021.03.26-11.10.11:616][111]LogTexture: Display: 텍스처 빌드: T_Cliff01_D_CC_R (AutoDXT, 8192X8192)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_ScotsPine_Bark_01_Tex (AutoDXT, 2048X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_ScotsPine_Bark_01_N_Tex (BC5, 2048X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_GDC_TilingRocks_01_DispMask (AutoDXT, 1024X1024)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_Ice_Noise (AutoDXT, 1024X1024)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_HeatherBranch4_N (BC5, 2048X2048)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_HeatherBranch4_Mask2 (AutoDXT, 1024X1024)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_HeatherBranch4_D (AutoDXT, 2048X2048)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_BogMyrtleBtm_01_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_BogMyrtleBtm_01_D (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_BogMyrtle_01_Atlas_Tex (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_BogMyrtle_01_Atlas_Normal_Tex (BC5, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_FieldGrass_02_M (AutoDXT, 1024X1024)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_FieldGrass_01_D (AutoDXT, 1024X1024)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: Damage_TilingTexture_N (BC5, 2048X2048)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_ConcreteTile_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: Damage_TilingTexture_m (AutoDXT, 2048X2048)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: MonoLithStatue01_normals (BC5, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: MonoLithStatue01_AO (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleWindow02A_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleWindow02A_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleWindow01A_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleWindow01A_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_Jungle_Wall02A_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_Jungle_Wall02A_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleWall_01A_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleWall_01A_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleStairs_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleStairs_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleStairs_BrokenEnd_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleStairs_BrokenEnd_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleStairs_Broken_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleStairs_Broken_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleRubble_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:190][111]LogTexture: Display: 텍스처 빌드: T_JungleRubble_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece02B_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece02B_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece02A_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece02A_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece02C_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece02C_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece01A_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockPiece01A_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockDamage_01_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlockDamage_01_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlock01C_normals (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlock01C_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlock01B_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlock01B_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlock01A_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlock01A_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: JungleCamp_White_D_RM (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: JungleCamp_White_D_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: JungleCamp_White_C_RM (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: JungleCamp_White_C_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: JungleCamp_White_B_RM (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: JungleCamp_White_A_RM (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: JungleCamp_White_B_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: JungleCamp_White_A_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JungleCamp_Green_2_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JungleCamp_Green_2_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JungleCamp_Green_1_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JungleCamp_Green_1_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JungleArch01A_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JungleArch01A_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlock02B_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_JunglePillarBlock02B_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: Aclove_Wall_Broken_normals (BC5, 2048X2048)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: Aclove_Wall_Broken_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_Corner_01_CC_M (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_Corner_01_CC_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_08_N (BC5, 2048X2048)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_08_D (AutoDXT, 2048X2048)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_07_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_07_D (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_06_D (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_06_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_05_D (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_05_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_04_N (BC5, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_04_D (AutoDXT, 4096X4096)
+[2021.03.26-11.11.42:191][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_03_CC_M (AutoDXT, 2048X2048)
+[2021.03.26-11.11.42:288][111]LogMaterial: Display: Missing cached shader map for material M_Photoscan_Master, compiling. 
+[2021.03.26-11.11.42:361][111]LogMaterial: Display: Missing cached shader map for material M_Photoscan_Master, compiling. 
+[2021.03.26-11.11.42:758][111]LogStaticMesh: SM_Cliff01 스태틱 메시 빌드중...
+[2021.03.26-11.11.43:078][111]LogStaticMesh: Built static mesh [0.32s] /Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01.SM_Cliff01
+[2021.03.26-11.11.43:163][111]LogMaterial: Display: Missing cached shader map for material Master_SidesMarble, compiling. 
+[2021.03.26-11.11.43:238][111]LogMaterial: Display: Missing cached shader map for material Master_SidesMarble, compiling. 
+[2021.03.26-11.11.43:300][111]LogMaterial: Display: Missing cached shader map for material Master_SidesMarble, compiling. 
+[2021.03.26-11.11.43:357][111]LogMaterial: Display: Missing cached shader map for material Master_SidesMarble, compiling. 
+[2021.03.26-11.11.43:445][111]LogMaterial: Display: Missing cached shader map for material Master_SidesMarble, compiling. 
+[2021.03.26-11.11.43:522][111]LogMaterial: Display: Missing cached shader map for material Master_SidesMarble, compiling. 
+[2021.03.26-11.11.43:597][111]LogMaterial: Display: Missing cached shader map for material Master_SidesMarble, compiling. 
+[2021.03.26-11.11.43:673][111]LogMaterial: Display: Missing cached shader map for material M_JungleArchitecture, compiling. 
+[2021.03.26-11.11.43:698][111]LogMaterial: Display: Missing cached shader map for material Master_SidesMarble, compiling. 
+[2021.03.26-11.11.43:757][111]LogMaterial: Display: Missing cached shader map for material M_WetDecal2, compiling. 
+[2021.03.26-11.11.47:992][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_03_CC_N (BC5, 2048X2048)
+[2021.03.26-11.11.47:993][111]LogTexture: Display: 텍스처 빌드: T_GDC_StonePath_Tile_D_R (AutoDXT, 8192X8192)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_02_CC_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_02_CC_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_01_CC_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_01_CC_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_RdBRockWall_part_1_D (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_RdBRockWall_part_1_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_NordicRockTile02b (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: Black (AutoDXT, 32X32)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_NordicRockTile02_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_CliffRock_03_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_Dusk_WallA_Endcap_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_Dusk_WallA_Endcap_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_Grim_Barbican_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_Grim_Barbican_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:997][111]LogTexture: Display: 텍스처 빌드: T_Evil_Barbican_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Evil_Barbican_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Evil_InhibGate_Top_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Evil_InhibGate_Top_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Evil_InhibGate_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Evil_InhibGate_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_EvilGate_Piece4_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_EvilGate_Piece4_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_EvilGate_Piece1_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_EvilGate_Piece1_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_TetraSteps_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_TetraSteps_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_CorruptInhibitor_Ring_Clean_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_CorruptInhibitor_Center_RM (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_CorruptInhibitor_Strip_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_CorruptInhibitor_Center_Clean_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Dusk_WallA_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Dusk_WallA_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Dusk_WallA_Flat_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Dusk_Spire_Bottom_N (BC5, 2048X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Dusk_WallA_Flat_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Dusk_Spire_Bottom_M (AutoDXT, 2048X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_DawnSide_Stair_points_N (BC5, 1024X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_DawnSide_Stair_points_M (AutoDXT, 1024X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_DawnSide_Collar_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_DawnSide_Collar_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_DawnSide_Stair_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_DawnSide_Stair_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_DawnSide_Sconce_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_DawnSide_Sconce_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Dawnside_Walls_V3_Part1_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: Oxidation_D (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_WaveDisplaced_N (BC5, 256X256)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_WaterTile_Blur_Packed (AutoDXT, 1024X1024)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: 2ndInfectedMapLinear (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Dawnside_Walls_V3_Part1_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_WaterFlow_01_Foam_Tiled_4Real (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Turbulence_AdditiveWarp_Linear (BGRA8, 1024X1024)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_SoftSmoke_03 (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_CloudScape_08_Details (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Dawn_Tower_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: Dawn_Inhibitor_Ring_Trim_N (BC5, 1024X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: Dawn_Inhibitor_Ring_Trim_M (AutoDXT, 1024X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Dawn_Tower_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: Water01_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_WaterSphere_UVMask (BGRA8, 256X256)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_WaterSphere_LUT (BGRA8, 128X128)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_WaterFoam2_D (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Water2_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: RT_Caustics_Tex2 (RGBA16F, 1024X1024)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_PlasmaNoise_01 (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: TilingNoise03 (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Nature_Ground_Dirt_01c_HeavyPebbles_N_height (G8, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: simple_circle_mask (AutoDXT, 512X512)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_WaterSphere01 (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Dawn_Gate_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_TreeSicknessmap (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Dawn_Gate_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_FlowerTree_Petals_01_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_FlowerTree_Petals_01_D (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Cave_Noise_14 (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_FlowerTree_Core_01_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_SmallFlower_LUT (AutoDXT, 64X64)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_FlowerTree_Core_01_D (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Craghead_Oak_TileMoss_01_D_Tex (AutoDXT, 2048X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Craghead_Oak_Tile_01_D_Tex (AutoDXT, 2048X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Craghead_Oak_Tile_01_N_Tex (BC5, 2048X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: TerminusGateTrim_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: TerminusGateTrim_Alt_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: TerminusGateway_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: TerminusGateway_Alt_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: TerminusNose_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: TerminusNose_Alt_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: Plain_Wall_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: Turret_Roughness (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: Plain_Wall_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Turret_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: T_Turret_AO (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: noise_flamy_Tile (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: Dino_Nest_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:998][111]LogTexture: Display: 텍스처 빌드: Dino_Nest_M (DXT1, 4096X4096)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: Dino_Nest_D (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: Base_Wall_Piece_Metal_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: Base_wall_Piece_Metal_Alt_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: T_Floor_Mask (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: Artifacts_Static_Pillar_A_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: T_Mossrocks_Moss_02_D2 (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: T_Metal_Patina_N (BC5, 2048X2048)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: T_Metal_Patina_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: T_Metal_Patina_D (AutoDXT, 4096X4096)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: T_StairsSeam_N (BC5, 512X2048)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: T_StairsEnd_Whtie_PM_D (DXT1, 4096X4096)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: T_StairsEnd_PM_N (BC5, 4096X4096)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: T_StairsEnd_PM_M (DXT1, 4096X4096)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: T_StairsEnd_PM_D (DXT1, 4096X4096)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: T_StairsEnd_Black_PM_D (DXT1, 4096X4096)
+[2021.03.26-11.13.31:999][111]LogTexture: Display: 텍스처 빌드: T_Stairs_PM_White_D (AutoDXT, 4096X4096)
+[2021.03.26-11.13.33:519][111]LogTexture: Display: 텍스처 빌드: T_Stairs_PM_N (BC5, 4096X4096)
+[2021.03.26-11.13.33:519][111]LogTexture: Display: 텍스처 빌드: T_GDC_Tiling_LeafPathStones_D_R (AutoDXT, 4096X4096)
+[2021.03.26-11.13.59:829][111]LogTexture: Display: 텍스처 빌드: T_Stairs_PM_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.59:829][111]LogTexture: Display: 텍스처 빌드: T_Stairs_PM_D (AutoDXT, 4096X4096)
+[2021.03.26-11.13.59:829][111]LogTexture: Display: 텍스처 빌드: T_Stairs_PM_Black_D (AutoDXT, 4096X4096)
+[2021.03.26-11.13.59:829][111]LogTexture: Display: 텍스처 빌드: Marble_worn_N (BC5, 2048X2048)
+[2021.03.26-11.13.59:829][111]LogTexture: Display: 텍스처 빌드: Marble_worn_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.59:829][111]LogTexture: Display: 텍스처 빌드: Marble_worn_D (AutoDXT, 2048X2048)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: Marble_worn_Black_D (AutoDXT, 2048X2048)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: Marble_Damaged_N (BC5, 2048X2048)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: Marble_Damaged_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: Marble_Damaged_D (AutoDXT, 2048X2048)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: Marble_Damaged_Black_D (AutoDXT, 2048X2048)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: Marble_Chipped_N (BC5, 2048X2048)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: Marble_Chipped_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: Marble_Chipped_D (AutoDXT, 2048X2048)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: Marble_Chipped_Black_D (AutoDXT, 2048X2048)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: T_SoilMud2_H (AutoDXT, 4096X4096)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: T_SoilMud2_N (BC5, 4096X4096)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: T_SoilMud2_D (AutoDXT, 4096X4096)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: T_Rusty_Earth_N (BC5, 2048X2048)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: T_DirtLeakAO_M (AutoDXT, 2048X2048)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: Base_Wall_Piece_K_Carving_M (AutoDXT, 4096X4096)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: Base_Wall_Piece_AB_D (DXT1, 4096X4096)
+[2021.03.26-11.13.59:837][111]LogTexture: Display: 텍스처 빌드: Base_Wall_Piece_J_M (DXT1, 4096X4096)
+[2021.03.26-11.13.59:853][111]LogMaterial: Display: Missing cached shader map for material M_Waterfloor, compiling. 
+[2021.03.26-11.13.59:975][111]LogMaterial: Display: Missing cached shader map for material M_Waterfloor, compiling. 
+[2021.03.26-11.14.00:006][111]LogMaterial: Display: Missing cached shader map for material M_Decal2, compiling. 
+[2021.03.26-11.14.00:022][111]LogMaterial: Display: Missing cached shader map for material M_Photoscan_Master_Displacement, compiling. 
+[2021.03.26-11.14.00:112][111]LogMaterial: Display: Missing cached shader map for material M_Photoscan_Master_Displacement, compiling. 
+[2021.03.26-11.14.05:968][111]LogTexture: Display: 텍스처 빌드: Base_Wall_Piece_J_D (DXT1, 4096X4096)
+[2021.03.26-11.14.05:968][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2848
+[2021.03.26-11.14.05:968][111]LogTexture: Display: 텍스처 빌드: T_Tile_PebblyRiverbank_D_R (AutoDXT, 8192X8192)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: Base_Wall_Piece_FD_D (DXT1, 4096X4096)
+[2021.03.26-11.15.44:999][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2838
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: Base_Wall_Piece_FD_Carving_M (AutoDXT, 4096X4096)
+[2021.03.26-11.15.44:999][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2828
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: Base_Wall_Piece_E_Mask (DXT1, 4096X4096)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_Glansgruvan_Rock_1_N (BC5, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_Glansgruvan_Rock_1_D (DXT1, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_Agelsjon_Rock__Boulder1_N (BC5, 1024X1024)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: Rockface_A_M (DXT1, 4096X4096)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: Rockface_A_D (DXT1, 4096X4096)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: Decal_Astro_N (BC5, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: Decal_Astro (DXT1, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: Artifacts_Static_Pillar_B_M2 (AutoDXT, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2818
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_LargePlainsBoulder002_N (BC5, 8192X8192)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_LargePlainsBoulder002_D_M (DXT1, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: RockSmooth0139_1_L (AutoDXT, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: RockSmooth0130_1_L (AutoDXT, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: Cliffs0356_1_L_normal (BC5, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_RockSmooth0074_1_XL_N (BC5, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: RockSmooth0076_1_L_N (BC5, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: RockSmooth0076_1_L (AutoDXT, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_RockHeightVariation (DXT1, 256X1024)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_TilingMoss_Clovers-n-Flowers_01_D (AutoDXT, 4096X4096)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_GDC_StonePath_Tile_M (AutoDXT, 4096X4096)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_MossMask_N (BC5, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_LandscapeMoss_M (AutoDXT, 4096X4096)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_LandscapeMoss_D (AutoDXT, 4096X4096)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_TilingRock_A_N (BC5, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_Agora_P_TerrainHeightmap (BGRA8, 1024X1024)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_TilingRock_A_D (AutoDXT, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_Vegetation_Debris_002_N (BC5, 8192X8192)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_Tree_Stump_01_N (BC5, 8192X8192)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_ScotsPineTall_01_Atlas_Billboards_Tex (AutoDXT, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_ScotsPineTall_01_Atlas_Billboards_Normal_Tex (BC5, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_ScotsPine_01_Atlas_Tex (AutoDXT, 4096X4096)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_ScotsPine_01_Atlas_Specular_Tex (AutoDXT, 4096X4096)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_ScotsPine_01_Atlas_Normal_Tex (BC5, 4096X4096)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_ScotsPine_01_Atlas_Billboards_Tex (AutoDXT, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_ScotsPine_01_Atlas_Billboards_Normal_Tex (BC5, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_HillTree_Tall_01_Atlas_Billboards_Tex (AutoDXT, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_HillTree_Tall_01_Atlas_Billboards_Normal_Tex (BC5, 2048X2048)
+[2021.03.26-11.15.44:999][111]LogTexture: Display: 텍스처 빌드: T_HillTree_01_Atlas_Tex (AutoDXT, 4096X4096)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_Craghead_Oak_LimbTile_02_N_Tex (BC5, 1024X4096)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_HillTree_01_Atlas_Normal_Tex (BC5, 4096X4096)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_Craghead_Oak_LimbTile_02_D_Tex (AutoDXT, 1024X4096)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_River_Rock_01_N (BC5, 4096X4096)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_Scree_001_N (AutoDXT, 8192X8192)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_Scree002_N (BC5, 8192X8192)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_Medium_Boulder_002_N_4096 (BC5, 4096X4096)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_Medium_Boulder_001_N_4096 (BC5, 4096X4096)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_MountainRock_N (BC5, 8192X8192)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_Yarrow_M (AutoDXT, 2048X2048)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_Yarrow_N (BC5, 2048X2048)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_Yarrow_D (AutoDXT, 2048X2048)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_GroundRevealRock001a_N (BC5, 8192X8192)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_GDC_LargeVolcanicRock_001_N (BC5, 8192X8192)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_Ruins_BuffFloorA_M (AutoDXT, 4096X4096)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_DeadLeavesAtlasTop_01_D (AutoDXT, 4096X4096)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_DeadLeavesAtlas_01_N (BC5, 4096X4096)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_DeadLeavesAtlas_01_D (AutoDXT, 4096X4096)
+[2021.03.26-11.15.45:000][111]LogTexture: Display: 텍스처 빌드: T_Ruins_BuffFloorA_N (BC5, 4096X4096)
+[2021.03.26-11.15.45:040][111]LogMaterial: Display: Missing cached shader map for material M_WetDecal, compiling. 
+[2021.03.26-11.15.45:054][111]LogMaterial: Display: Missing cached shader map for material ChromeBall, compiling. 
+[2021.03.26-11.15.45:066][111]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Branches_Mat, compiling. 
+[2021.03.26-11.15.45:129][111]LogMaterial: Display: Missing cached shader map for material M_HeatherNew_Master, compiling. 
+[2021.03.26-11.15.45:165][111]LogMaterial: Display: Missing cached shader map for material M_HeatherNew_Master, compiling. 
+[2021.03.26-11.15.45:216][111]LogStaticMesh: SM_Heather_Mesh_Clumps2 스태틱 메시 빌드중...
+[2021.03.26-11.15.45:263][111]LogStaticMesh: Built static mesh [0.05s] /Game/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.SM_Heather_Mesh_Clumps2
+[2021.03.26-11.15.45:263][111]LogStaticMesh: Warning: Mesh SM_Heather_Mesh_Clumps2 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.SM_Heather_Mesh_Clumps2.
+[2021.03.26-11.15.45:281][111]LogStaticMesh: SM_Fern_01 스태틱 메시 빌드중...
+[2021.03.26-11.15.45:469][111]LogStaticMesh: Built static mesh [0.19s] /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01.SM_Fern_01
+[2021.03.26-11.15.45:474][111]LogMaterial: Display: Missing cached shader map for material BogMyrtle_01_Fronds_Mat, compiling. 
+[2021.03.26-11.15.45:540][111]LogStaticMesh: BogMyrtleBush_01 스태틱 메시 빌드중...
+[2021.03.26-11.15.45:848][111]LogStaticMesh: Built static mesh [0.31s] /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.BogMyrtleBush_01
+[2021.03.26-11.15.45:851][111]LogMaterial: Display: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2021.03.26-11.15.45:888][111]LogMaterial: Display: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2021.03.26-11.15.45:924][111]LogMaterial: Display: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2021.03.26-11.15.46:000][111]LogStaticMesh: Ruins_WhiteBuffFloor 스태틱 메시 빌드중...
+[2021.03.26-11.15.46:684][111]LogStaticMesh: Built static mesh [0.68s] /Game/ParagonProps/Monolith/Ruins/Meshes/Ruins_WhiteBuffFloor.Ruins_WhiteBuffFloor
+[2021.03.26-11.15.46:712][111]LogStaticMesh: Ruins_TrimStone_E 스태틱 메시 빌드중...
+[2021.03.26-11.15.46:714][111]LogStaticMesh: Built static mesh [0.00s] /Game/ParagonProps/Monolith/Ruins/Meshes/Ruins_TrimStone_E.Ruins_TrimStone_E
+[2021.03.26-11.15.46:734][111]LogStaticMesh: Ruins_StoneTrim_OuterLargerHalf 스태틱 메시 빌드중...
+[2021.03.26-11.15.46:837][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3459
+[2021.03.26-11.15.46:837][111]LogStaticMesh: Built static mesh [0.10s] /Game/ParagonProps/Monolith/Ruins/Meshes/Ruins_StoneTrim_OuterLargerHalf.Ruins_StoneTrim_OuterLargerHalf
+[2021.03.26-11.15.46:876][111]LogStaticMesh: Ruins_GoldBuffFloor 스태틱 메시 빌드중...
+[2021.03.26-11.15.47:387][111]LogStaticMesh: Built static mesh [0.51s] /Game/ParagonProps/Monolith/Ruins/Meshes/Ruins_GoldBuffFloor.Ruins_GoldBuffFloor
+[2021.03.26-11.15.47:531][111]LogStaticMesh: MonoStatue_Damaged 스태틱 메시 빌드중...
+[2021.03.26-11.15.47:719][111]LogStaticMesh: Built static mesh [0.19s] /Game/ParagonProps/Monolith/Ruins/Meshes/MonoStatue_Damaged.MonoStatue_Damaged
+[2021.03.26-11.15.47:855][111]LogStaticMesh: MonoStatue 스태틱 메시 빌드중...
+[2021.03.26-11.15.48:342][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3449
+[2021.03.26-11.15.48:861][111]LogStaticMesh: Built static mesh [1.01s] /Game/ParagonProps/Monolith/Ruins/Meshes/MonoStatue.MonoStatue
+[2021.03.26-11.15.48:876][111]LogStaticMesh: JungleWindow_02A 스태틱 메시 빌드중...
+[2021.03.26-11.15.48:994][111]LogStaticMesh: Built static mesh [0.12s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleWindow_02A.JungleWindow_02A
+[2021.03.26-11.15.49:006][111]LogStaticMesh: JungleWindow_01A 스태틱 메시 빌드중...
+[2021.03.26-11.15.49:127][111]LogStaticMesh: Built static mesh [0.12s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleWindow_01A.JungleWindow_01A
+[2021.03.26-11.15.49:141][111]LogStaticMesh: JungleWall_02B_Curved03 스태틱 메시 빌드중...
+[2021.03.26-11.15.49:334][111]LogStaticMesh: Built static mesh [0.19s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleWall_02B_Curved03.JungleWall_02B_Curved03
+[2021.03.26-11.15.49:350][111]LogStaticMesh: JungleWall_02B_Curved01 스태틱 메시 빌드중...
+[2021.03.26-11.15.49:534][111]LogStaticMesh: Built static mesh [0.18s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleWall_02B_Curved01.JungleWall_02B_Curved01
+[2021.03.26-11.15.49:552][111]LogStaticMesh: JungleWall_02A_Curved04 스태틱 메시 빌드중...
+[2021.03.26-11.15.49:767][111]LogStaticMesh: Built static mesh [0.22s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleWall_02A_Curved04.JungleWall_02A_Curved04
+[2021.03.26-11.15.49:786][111]LogStaticMesh: JungleWall_02A_Curved03 스태틱 메시 빌드중...
+[2021.03.26-11.15.50:001][111]LogStaticMesh: Built static mesh [0.21s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleWall_02A_Curved03.JungleWall_02A_Curved03
+[2021.03.26-11.15.50:020][111]LogStaticMesh: JungleWall_02A_Curved02 스태틱 메시 빌드중...
+[2021.03.26-11.15.50:233][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3439
+[2021.03.26-11.15.50:236][111]LogStaticMesh: Built static mesh [0.22s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleWall_02A_Curved02.JungleWall_02A_Curved02
+[2021.03.26-11.15.50:255][111]LogStaticMesh: JungleWall_02A_Curved01 스태틱 메시 빌드중...
+[2021.03.26-11.15.50:473][111]LogStaticMesh: Built static mesh [0.22s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleWall_02A_Curved01.JungleWall_02A_Curved01
+[2021.03.26-11.15.50:506][111]LogStaticMesh: JungleWall_02A 스태틱 메시 빌드중...
+[2021.03.26-11.15.50:713][111]LogStaticMesh: Built static mesh [0.21s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleWall_02A.JungleWall_02A
+[2021.03.26-11.15.50:720][111]LogStaticMesh: JungleWall_01B 스태틱 메시 빌드중...
+[2021.03.26-11.15.50:738][111]LogStaticMesh: Built static mesh [0.02s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleWall_01B.JungleWall_01B
+[2021.03.26-11.15.50:745][111]LogStaticMesh: JungleWall_01A 스태틱 메시 빌드중...
+[2021.03.26-11.15.50:806][111]LogStaticMesh: Built static mesh [0.06s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleWall_01A.JungleWall_01A
+[2021.03.26-11.15.50:820][111]LogStaticMesh: JungleTrim01Broken_Corner 스태틱 메시 빌드중...
+[2021.03.26-11.15.50:883][111]LogStaticMesh: Built static mesh [0.06s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleTrim01Broken_Corner.JungleTrim01Broken_Corner
+[2021.03.26-11.15.50:894][111]LogStaticMesh: JungleTrim01Broken_250 스태틱 메시 빌드중...
+[2021.03.26-11.15.50:991][111]LogStaticMesh: Built static mesh [0.10s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleTrim01Broken_250.JungleTrim01Broken_250
+[2021.03.26-11.15.51:000][111]LogStaticMesh: JungleTrim01Broken_150 스태틱 메시 빌드중...
+[2021.03.26-11.15.51:082][111]LogStaticMesh: Built static mesh [0.08s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleTrim01Broken_150.JungleTrim01Broken_150
+[2021.03.26-11.15.51:093][111]LogStaticMesh: JungleTrim01Broken_100 스태틱 메시 빌드중...
+[2021.03.26-11.15.51:184][111]LogStaticMesh: Built static mesh [0.09s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleTrim01Broken_100.JungleTrim01Broken_100
+[2021.03.26-11.15.51:201][111]LogStaticMesh: JungleTrim01_Curved01 스태틱 메시 빌드중...
+[2021.03.26-11.15.51:327][111]LogStaticMesh: Built static mesh [0.13s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleTrim01_Curved01.JungleTrim01_Curved01
+[2021.03.26-11.15.51:330][111]LogMaterial: Display: Missing cached shader map for material M_JungleArchitecture, compiling. 
+[2021.03.26-11.15.51:358][111]LogStaticMesh: JungleTrim01_250 스태틱 메시 빌드중...
+[2021.03.26-11.15.51:425][111]LogStaticMesh: Built static mesh [0.07s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleTrim01_250.JungleTrim01_250
+[2021.03.26-11.15.51:431][111]LogStaticMesh: JungleTrim01_100 스태틱 메시 빌드중...
+[2021.03.26-11.15.51:469][111]LogStaticMesh: Built static mesh [0.04s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleTrim01_100.JungleTrim01_100
+[2021.03.26-11.15.51:480][111]LogStaticMesh: JungleStairs_Strait01 스태틱 메시 빌드중...
+[2021.03.26-11.15.51:577][111]LogStaticMesh: Built static mesh [0.10s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleStairs_Strait01.JungleStairs_Strait01
+[2021.03.26-11.15.51:607][111]LogStaticMesh: JungleStairs_BrokenEnd 스태틱 메시 빌드중...
+[2021.03.26-11.15.51:960][111]LogStaticMesh: Built static mesh [0.35s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleStairs_BrokenEnd.JungleStairs_BrokenEnd
+[2021.03.26-11.15.51:985][111]LogStaticMesh: JungleStairs_Broken3 스태틱 메시 빌드중...
+[2021.03.26-11.15.52:187][111]LogStaticMesh: Built static mesh [0.20s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleStairs_Broken3.JungleStairs_Broken3
+[2021.03.26-11.15.52:205][111]LogStaticMesh: JungleStairs_Broken2 스태틱 메시 빌드중...
+[2021.03.26-11.15.52:365][111]LogStaticMesh: Built static mesh [0.16s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleStairs_Broken2.JungleStairs_Broken2
+[2021.03.26-11.15.52:379][111]LogStaticMesh: JungleStairs_Broken1 스태틱 메시 빌드중...
+[2021.03.26-11.15.52:471][111]LogStaticMesh: Built static mesh [0.09s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleStairs_Broken1.JungleStairs_Broken1
+[2021.03.26-11.15.52:509][111]LogStaticMesh: JungleRubblePile_A 스태틱 메시 빌드중...
+[2021.03.26-11.15.52:785][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3478
+[2021.03.26-11.15.52:946][111]LogStaticMesh: Built static mesh [0.44s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleRubblePile_A.JungleRubblePile_A
+[2021.03.26-11.15.53:004][111]LogStaticMesh: JunglePillarBlockPiece_CombinedD3 스태틱 메시 빌드중...
+[2021.03.26-11.15.53:778][111]LogStaticMesh: Built static mesh [0.77s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_CombinedD3.JunglePillarBlockPiece_CombinedD3
+[2021.03.26-11.15.53:846][111]LogStaticMesh: JunglePillarBlockPiece_CombinedD2 스태틱 메시 빌드중...
+[2021.03.26-11.15.54:791][111]LogStaticMesh: Built static mesh [0.94s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_CombinedD2.JunglePillarBlockPiece_CombinedD2
+[2021.03.26-11.15.54:858][111]LogStaticMesh: JunglePillarBlockPiece_CombinedD1 스태틱 메시 빌드중...
+[2021.03.26-11.15.55:806][111]LogStaticMesh: Built static mesh [0.95s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_CombinedD1.JunglePillarBlockPiece_CombinedD1
+[2021.03.26-11.15.55:847][111]LogStaticMesh: JunglePillarBlockPiece_CombinedB 스태틱 메시 빌드중...
+[2021.03.26-11.15.56:237][111]LogStaticMesh: Built static mesh [0.39s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_CombinedB.JunglePillarBlockPiece_CombinedB
+[2021.03.26-11.15.56:284][111]LogStaticMesh: JunglePillarBlockPiece_CombinedA 스태틱 메시 빌드중...
+[2021.03.26-11.15.56:668][111]LogStaticMesh: Built static mesh [0.38s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_CombinedA.JunglePillarBlockPiece_CombinedA
+[2021.03.26-11.15.56:682][111]LogStaticMesh: JunglePillarBlockPiece_05E 스태틱 메시 빌드중...
+[2021.03.26-11.15.56:794][111]LogStaticMesh: Built static mesh [0.11s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_05E.JunglePillarBlockPiece_05E
+[2021.03.26-11.15.56:813][111]LogStaticMesh: JunglePillarBlockPiece_05D 스태틱 메시 빌드중...
+[2021.03.26-11.15.56:981][111]LogStaticMesh: Built static mesh [0.17s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_05D.JunglePillarBlockPiece_05D
+[2021.03.26-11.15.56:995][111]LogStaticMesh: JunglePillarBlockPiece_05B 스태틱 메시 빌드중...
+[2021.03.26-11.15.57:116][111]LogStaticMesh: Built static mesh [0.12s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_05B.JunglePillarBlockPiece_05B
+[2021.03.26-11.15.57:133][111]LogStaticMesh: JunglePillarBlockPiece_05A 스태틱 메시 빌드중...
+[2021.03.26-11.15.57:296][111]LogStaticMesh: Built static mesh [0.16s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_05A.JunglePillarBlockPiece_05A
+[2021.03.26-11.15.57:311][111]LogStaticMesh: JunglePillarBlockPiece_04B 스태틱 메시 빌드중...
+[2021.03.26-11.15.57:418][111]LogStaticMesh: Built static mesh [0.11s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_04B.JunglePillarBlockPiece_04B
+[2021.03.26-11.15.57:432][111]LogStaticMesh: JunglePillarBlockPiece_04A 스태틱 메시 빌드중...
+[2021.03.26-11.15.57:527][111]LogStaticMesh: Built static mesh [0.10s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_04A.JunglePillarBlockPiece_04A
+[2021.03.26-11.15.57:538][111]LogStaticMesh: JunglePillarBlockPiece_03B 스태틱 메시 빌드중...
+[2021.03.26-11.15.57:645][111]LogStaticMesh: Built static mesh [0.11s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_03B.JunglePillarBlockPiece_03B
+[2021.03.26-11.15.57:657][111]LogStaticMesh: JunglePillarBlockPiece_02C 스태틱 메시 빌드중...
+[2021.03.26-11.15.57:720][111]LogStaticMesh: Built static mesh [0.06s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_02C.JunglePillarBlockPiece_02C
+[2021.03.26-11.15.57:731][111]LogStaticMesh: JunglePillarBlockPiece_01A 스태틱 메시 빌드중...
+[2021.03.26-11.15.57:813][111]LogStaticMesh: Built static mesh [0.08s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockPiece_01A.JunglePillarBlockPiece_01A
+[2021.03.26-11.15.57:824][111]LogStaticMesh: JunglePillarBlockCrumble01_A 스태틱 메시 빌드중...
+[2021.03.26-11.15.57:909][111]LogStaticMesh: Built static mesh [0.09s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlockCrumble01_A.JunglePillarBlockCrumble01_A
+[2021.03.26-11.15.57:922][111]LogStaticMesh: JunglePillarBlock_01C 스태틱 메시 빌드중...
+[2021.03.26-11.15.58:102][111]LogStaticMesh: Built static mesh [0.18s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlock_01C.JunglePillarBlock_01C
+[2021.03.26-11.15.58:115][111]LogStaticMesh: JunglePillarBlock_01B 스태틱 메시 빌드중...
+[2021.03.26-11.15.58:300][111]LogStaticMesh: Built static mesh [0.19s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlock_01B.JunglePillarBlock_01B
+[2021.03.26-11.15.58:309][111]LogStaticMesh: JunglePillarBlock_01A 스태틱 메시 빌드중...
+[2021.03.26-11.15.58:397][111]LogStaticMesh: Built static mesh [0.09s] /Game/ParagonProps/Monolith/Ruins/Meshes/JunglePillarBlock_01A.JunglePillarBlock_01A
+[2021.03.26-11.15.58:530][111]LogStaticMesh: JungleCamp_White_Back 스태틱 메시 빌드중...
+[2021.03.26-11.15.58:781][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3468
+[2021.03.26-11.15.59:522][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3458
+[2021.03.26-11.16.00:428][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3448
+[2021.03.26-11.16.00:428][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3438
+[2021.03.26-11.16.01:489][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3428
+[2021.03.26-11.16.01:526][111]LogStaticMesh: Built static mesh [3.00s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleCamp_White_Back.JungleCamp_White_Back
+[2021.03.26-11.16.01:659][111]LogStaticMesh: JungleCamp_White 스태틱 메시 빌드중...
+[2021.03.26-11.16.02:660][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3418
+[2021.03.26-11.16.03:135][111]LogStaticMesh: Built static mesh [1.48s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleCamp_White.JungleCamp_White
+[2021.03.26-11.16.03:235][111]LogStaticMesh: JungleCamp_Green 스태틱 메시 빌드중...
+[2021.03.26-11.16.03:680][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3408
+[2021.03.26-11.16.04:103][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3398
+[2021.03.26-11.16.04:123][111]LogStaticMesh: Built static mesh [0.89s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleCamp_Green.JungleCamp_Green
+[2021.03.26-11.16.04:157][111]LogStaticMesh: JungleArch_01B 스태틱 메시 빌드중...
+[2021.03.26-11.16.04:260][111]LogStaticMesh: Built static mesh [0.10s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleArch_01B.JungleArch_01B
+[2021.03.26-11.16.04:270][111]LogStaticMesh: JungleArch_01A 스태틱 메시 빌드중...
+[2021.03.26-11.16.04:387][111]LogStaticMesh: Built static mesh [0.12s] /Game/ParagonProps/Monolith/Ruins/Meshes/JungleArch_01A.JungleArch_01A
+[2021.03.26-11.16.04:412][111]LogStaticMesh: Jungle_DiamondBase_DecoB 스태틱 메시 빌드중...
+[2021.03.26-11.16.04:593][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3388
+[2021.03.26-11.16.04:593][111]LogStaticMesh: Built static mesh [0.18s] /Game/ParagonProps/Monolith/Ruins/Meshes/Jungle_DiamondBase_DecoB.Jungle_DiamondBase_DecoB
+[2021.03.26-11.16.04:627][111]LogStaticMesh: Aclove_Wall_Broken 스태틱 메시 빌드중...
+[2021.03.26-11.16.04:703][111]LogStaticMesh: Built static mesh [0.08s] /Game/ParagonProps/Monolith/Ruins/Meshes/Aclove_Wall_Broken.Aclove_Wall_Broken
+[2021.03.26-11.16.06:032][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3378
+[2021.03.26-11.16.06:032][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_Corner_01_CC_D (AutoDXT, 4096X4096)
+[2021.03.26-11.16.31:198][111]LogTexture: Display: 텍스처 빌드: T_CliffRock_03_D (AutoDXT, 4096X4096)
+[2021.03.26-11.16.50:216][111]LogMeshUtilities: Finished distance field build in 45.3s - 128x128x128 distance field, 1306 triangles, Range [-0.3, 1.0], JungleArch_01A
+[2021.03.26-11.16.50:229][111]LogMaterial: Display: Missing cached shader map for material M_ScanRock, compiling. 
+[2021.03.26-11.16.51:558][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3466
+[2021.03.26-11.16.51:558][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_01_CC_D (AutoDXT, 4096X4096)
+[2021.03.26-11.16.58:622][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3456
+[2021.03.26-11.16.58:622][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3446
+[2021.03.26-11.16.58:622][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3436
+[2021.03.26-11.16.58:622][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3426
+[2021.03.26-11.16.58:622][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3416
+[2021.03.26-11.16.58:622][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3406
+[2021.03.26-11.16.58:622][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3396
+[2021.03.26-11.16.58:647][111]LogStaticMesh: SM_RockNordic_Corner_01 스태틱 메시 빌드중...
+[2021.03.26-11.16.58:791][111]LogStaticMesh: Built static mesh [0.15s] /Game/ParagonProps/Monolith/Rocks/Meshes/SM_RockNordic_Corner_01.SM_RockNordic_Corner_01
+[2021.03.26-11.16.58:799][111]LogStaticMesh: SM_RockNordic_08 스태틱 메시 빌드중...
+[2021.03.26-11.16.58:809][111]LogStaticMesh: Built static mesh [0.01s] /Game/ParagonProps/Monolith/Rocks/Meshes/SM_RockNordic_08.SM_RockNordic_08
+[2021.03.26-11.16.58:821][111]LogStaticMesh: SM_RockNordic_07 스태틱 메시 빌드중...
+[2021.03.26-11.16.58:843][111]LogStaticMesh: Built static mesh [0.02s] /Game/ParagonProps/Monolith/Rocks/Meshes/SM_RockNordic_07.SM_RockNordic_07
+[2021.03.26-11.16.58:856][111]LogStaticMesh: SM_RockNordic_06 스태틱 메시 빌드중...
+[2021.03.26-11.16.58:876][111]LogStaticMesh: Built static mesh [0.02s] /Game/ParagonProps/Monolith/Rocks/Meshes/SM_RockNordic_06.SM_RockNordic_06
+[2021.03.26-11.16.58:887][111]LogStaticMesh: SM_RockNordic_05 스태틱 메시 빌드중...
+[2021.03.26-11.16.58:903][111]LogStaticMesh: Built static mesh [0.02s] /Game/ParagonProps/Monolith/Rocks/Meshes/SM_RockNordic_05.SM_RockNordic_05
+[2021.03.26-11.16.58:913][111]LogStaticMesh: SM_RockNordic_04 스태틱 메시 빌드중...
+[2021.03.26-11.16.58:930][111]LogStaticMesh: Built static mesh [0.02s] /Game/ParagonProps/Monolith/Rocks/Meshes/SM_RockNordic_04.SM_RockNordic_04
+[2021.03.26-11.16.59:208][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_03_CC_D (AutoDXT, 2048X2048)
+[2021.03.26-11.17.00:648][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3386
+[2021.03.26-11.17.00:648][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3376
+[2021.03.26-11.17.00:649][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3366
+[2021.03.26-11.17.00:649][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3356
+[2021.03.26-11.17.01:924][111]LogTexture: Display: 텍스처 빌드: T_RockNordic_02_CC_D (AutoDXT, 4096X4096)
+[2021.03.26-11.17.09:048][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3346
+[2021.03.26-11.17.09:048][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3336
+[2021.03.26-11.17.09:048][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3326
+[2021.03.26-11.17.09:048][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3316
+[2021.03.26-11.17.09:048][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3306
+[2021.03.26-11.17.09:048][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3296
+[2021.03.26-11.17.09:048][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3286
+[2021.03.26-11.17.09:090][111]LogStaticMesh: SM_RockNordic_03 스태틱 메시 빌드중...
+[2021.03.26-11.17.09:212][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3276
+[2021.03.26-11.17.09:212][111]LogStaticMesh: Built static mesh [0.12s] /Game/ParagonProps/Monolith/Rocks/Meshes/SM_RockNordic_03.SM_RockNordic_03
+[2021.03.26-11.17.09:246][111]LogStaticMesh: SM_RockNordic_02 스태틱 메시 빌드중...
+[2021.03.26-11.17.09:563][111]LogStaticMesh: Built static mesh [0.32s] /Game/ParagonProps/Monolith/Rocks/Meshes/SM_RockNordic_02.SM_RockNordic_02
+[2021.03.26-11.17.09:599][111]LogStaticMesh: SM_RockNordic_01 스태틱 메시 빌드중...
+[2021.03.26-11.17.09:952][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3266
+[2021.03.26-11.17.10:149][111]LogStaticMesh: Built static mesh [0.55s] /Game/ParagonProps/Monolith/Rocks/Meshes/SM_RockNordic_01.SM_RockNordic_01
+[2021.03.26-11.17.10:173][111]LogStaticMesh: SM_Dusk_WallA_Endcap01 스태틱 메시 빌드중...
+[2021.03.26-11.17.10:442][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3256
+[2021.03.26-11.17.10:446][111]LogStaticMesh: Built static mesh [0.27s] /Game/ParagonProps/Monolith/Dusk/Meshes/SM_Dusk_WallA_Endcap01.SM_Dusk_WallA_Endcap01
+[2021.03.26-11.17.10:551][111]LogStaticMesh: Grim_Barbican_A 스태틱 메시 빌드중...
+[2021.03.26-11.17.11:544][111]LogStaticMesh: Built static mesh [0.99s] /Game/ParagonProps/Monolith/Dusk/Meshes/Grim_Barbican_A.Grim_Barbican_A
+[2021.03.26-11.17.11:586][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3246
+[2021.03.26-11.17.11:586][111]LogStaticMesh: Evil_Inhibitor_Gate_B 스태틱 메시 빌드중...
+[2021.03.26-11.17.11:760][111]LogStaticMesh: Built static mesh [0.17s] /Game/ParagonProps/Monolith/Dusk/Meshes/Evil_Inhibitor_Gate_B.Evil_Inhibitor_Gate_B
+[2021.03.26-11.17.11:792][111]LogStaticMesh: Evil_Gate_A_3 스태틱 메시 빌드중...
+[2021.03.26-11.17.12:088][111]LogStaticMesh: Built static mesh [0.30s] /Game/ParagonProps/Monolith/Dusk/Meshes/Evil_Gate_A_3.Evil_Gate_A_3
+[2021.03.26-11.17.12:688][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3236
+[2021.03.26-11.17.12:688][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3226
+[2021.03.26-11.17.12:688][111]LogTexture: Display: 텍스처 빌드: T_CorruptInhibitor_Strip_RM (AutoDXT, 4096X4096)
+[2021.03.26-11.17.14:175][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3216
+[2021.03.26-11.17.14:200][111]LogStaticMesh: Evil_Collar_Stairs_Small 스태틱 메시 빌드중...
+[2021.03.26-11.17.14:221][111]LogStaticMesh: Built static mesh [0.02s] /Game/ParagonProps/Monolith/Dusk/Meshes/Evil_Collar_Stairs_Small.Evil_Collar_Stairs_Small
+[2021.03.26-11.17.14:253][111]LogStaticMesh: Dusk_WallA_Strait01_Bent45 스태틱 메시 빌드중...
+[2021.03.26-11.17.14:590][111]LogStaticMesh: Built static mesh [0.34s] /Game/ParagonProps/Monolith/Dusk/Meshes/Dusk_WallA_Strait01_Bent45.Dusk_WallA_Strait01_Bent45
+[2021.03.26-11.17.14:600][111]LogStaticMesh: Dusk_WallA_Flat_Smaller_Strait01_Half 스태틱 메시 빌드중...
+[2021.03.26-11.17.14:641][111]LogStaticMesh: Built static mesh [0.04s] /Game/ParagonProps/Monolith/Dusk/Meshes/Dusk_WallA_Flat_Smaller_Strait01_Half.Dusk_WallA_Flat_Smaller_Strait01_Half
+[2021.03.26-11.17.14:691][111]LogStaticMesh: Dusk_Spire_Bottom 스태틱 메시 빌드중...
+[2021.03.26-11.17.14:813][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3206
+[2021.03.26-11.17.15:625][111]LogStaticMesh: Built static mesh [0.94s] /Game/ParagonProps/Monolith/Dusk/Meshes/Dusk_Spire_Bottom.Dusk_Spire_Bottom
+[2021.03.26-11.17.15:671][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3196
+[2021.03.26-11.17.15:671][111]LogStaticMesh: DawnSide_Stairs_two 스태틱 메시 빌드중...
+[2021.03.26-11.17.15:886][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3186
+[2021.03.26-11.17.16:080][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3176
+[2021.03.26-11.17.16:080][111]LogStaticMesh: Built static mesh [0.41s] /Game/ParagonProps/Monolith/Dawn/Meshes/DawnSide_Stairs_two.DawnSide_Stairs_two
+[2021.03.26-11.17.16:117][111]LogStaticMesh: DawnSide_Sconce 스태틱 메시 빌드중...
+[2021.03.26-11.17.16:589][111]LogStaticMesh: Built static mesh [0.47s] /Game/ParagonProps/Monolith/Dawn/Meshes/DawnSide_Sconce.DawnSide_Sconce
+[2021.03.26-11.17.16:628][111]LogStaticMesh: Dawn_Wall_Simple_Straight_A 스태틱 메시 빌드중...
+[2021.03.26-11.17.17:083][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3166
+[2021.03.26-11.17.17:092][111]LogStaticMesh: Built static mesh [0.46s] /Game/ParagonProps/Monolith/Dawn/Meshes/Dawn_Wall_Simple_Straight_A.Dawn_Wall_Simple_Straight_A
+[2021.03.26-11.17.17:108][111]LogMaterial: Display: Missing cached shader map for material M_Mono_WaterBall, compiling. 
+[2021.03.26-11.17.17:132][111]LogMaterial: Display: Missing cached shader map for material M_Mono_WaterWalls_Master, compiling. 
+[2021.03.26-11.17.17:229][111]LogStaticMesh: Dawn_Tower 스태틱 메시 빌드중...
+[2021.03.26-11.17.17:958][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3247
+[2021.03.26-11.17.18:644][111]LogStaticMesh: Built static mesh [1.42s] /Game/ParagonProps/Monolith/Dawn/Meshes/Dawn_Tower.Dawn_Tower
+[2021.03.26-11.17.18:654][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3237
+[2021.03.26-11.17.18:654][111]LogMaterial: Display: Missing cached shader map for material Master_SidesMarble, compiling. 
+[2021.03.26-11.17.18:808][111]LogStaticMesh: Dawn_TerminusCore_Stairs_Mid_B 스태틱 메시 빌드중...
+[2021.03.26-11.17.19:428][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3412
+[2021.03.26-11.17.19:440][111]LogStaticMesh: Built static mesh [0.63s] /Game/ParagonProps/Monolith/Dawn/Meshes/Dawn_TerminusCore_Stairs_Mid_B.Dawn_TerminusCore_Stairs_Mid_B
+[2021.03.26-11.17.19:459][111]LogStaticMesh: Dawn_Inhibitor_Ring_C 스태틱 메시 빌드중...
+[2021.03.26-11.17.19:591][111]LogStaticMesh: Built static mesh [0.13s] /Game/ParagonProps/Monolith/Dawn/Meshes/Dawn_Inhibitor_Ring_C.Dawn_Inhibitor_Ring_C
+[2021.03.26-11.17.19:629][111]LogStaticMesh: Dawn_Inhibitor_Ring_B 스태틱 메시 빌드중...
+[2021.03.26-11.17.19:847][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3402
+[2021.03.26-11.17.20:077][111]LogStaticMesh: Built static mesh [0.45s] /Game/ParagonProps/Monolith/Dawn/Meshes/Dawn_Inhibitor_Ring_B.Dawn_Inhibitor_Ring_B
+[2021.03.26-11.17.20:124][111]LogStaticMesh: Dawn_Gate_Pillar 스태틱 메시 빌드중...
+[2021.03.26-11.17.20:576][111]LogStaticMesh: Built static mesh [0.45s] /Game/ParagonProps/Monolith/Dawn/Meshes/Dawn_Gate_Pillar.Dawn_Gate_Pillar
+[2021.03.26-11.17.20:608][111]LogMaterial: Display: Missing cached shader map for material M_WaterSphere_Master, compiling. 
+[2021.03.26-11.17.20:627][111]LogMaterial: Display: Missing cached shader map for material Master_SidesMarble, compiling. 
+[2021.03.26-11.17.20:720][111]LogStaticMesh: Dawn_Gate_Orb 스태틱 메시 빌드중...
+[2021.03.26-11.17.20:765][111]LogStaticMesh: Built static mesh [0.05s] /Game/ParagonProps/Monolith/Dawn/Meshes/Dawn_Gate_Orb.Dawn_Gate_Orb
+[2021.03.26-11.17.20:918][111]LogStaticMesh: SM_Plane_5x5m 스태틱 메시 빌드중...
+[2021.03.26-11.17.21:077][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3619
+[2021.03.26-11.17.21:077][111]LogStaticMesh: Built static mesh [0.16s] /Game/ParagonProps/Ground/Meshes/SM_Plane_5x5m.SM_Plane_5x5m
+[2021.03.26-11.17.21:122][111]LogStaticMesh: SM_PDO_Disp 스태틱 메시 빌드중...
+[2021.03.26-11.17.21:127][111]LogStaticMesh: Built static mesh [0.01s] /Game/ParagonProps/Ground/Meshes/SM_PDO_Disp.SM_PDO_Disp
+[2021.03.26-11.17.21:131][111]LogMaterial: Display: Missing cached shader map for material M_Flower_Tree_Petals_Emissive, compiling. 
+[2021.03.26-11.17.21:152][111]LogMaterial: Display: Missing cached shader map for material M_FlowerTree_Core_01, compiling. 
+[2021.03.26-11.17.21:171][111]LogMaterial: Display: Missing cached shader map for material M_Bark_2, compiling. 
+[2021.03.26-11.17.21:321][111]LogStaticMesh: SM_FlowerTree_01 스태틱 메시 빌드중...
+[2021.03.26-11.17.23:085][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3748
+[2021.03.26-11.17.23:085][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3738
+[2021.03.26-11.17.23:085][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3728
+[2021.03.26-11.17.24:099][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3718
+[2021.03.26-11.17.24:099][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3708
+[2021.03.26-11.17.24:679][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3698
+[2021.03.26-11.17.24:701][111]LogStaticMesh: Built static mesh [3.38s] /Game/ParagonProps/Agora/Trees/Meshes/SM_FlowerTree_01.SM_FlowerTree_01
+[2021.03.26-11.17.24:748][111]LogMaterial: Display: Missing cached shader map for material MM_Marble_Metal_Arch, compiling. 
+[2021.03.26-11.17.24:806][111]LogMaterial: Display: Missing cached shader map for material MM_Marble_Metal_Arch, compiling. 
+[2021.03.26-11.17.24:866][111]LogMaterial: Display: Missing cached shader map for material MM_Marble_Metal_Arch, compiling. 
+[2021.03.26-11.17.24:922][111]LogMaterial: Display: Missing cached shader map for material MM_Marble_Metal_Arch, compiling. 
+[2021.03.26-11.17.25:010][111]LogStaticMesh: TerminusGateway 스태틱 메시 빌드중...
+[2021.03.26-11.17.25:198][111]LogStaticMesh: Built static mesh [0.19s] /Game/ParagonProps/Agora/Props/Meshes/TerminusGateway.TerminusGateway
+[2021.03.26-11.17.25:202][111]LogMaterial: Display: Missing cached shader map for material MM_Marble_Metal_Arch, compiling. 
+[2021.03.26-11.17.25:286][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4348
+[2021.03.26-11.17.25:286][111]LogStaticMesh: Terminus_Paragon 스태틱 메시 빌드중...
+[2021.03.26-11.17.25:496][111]LogStaticMesh: Built static mesh [0.21s] /Game/ParagonProps/Agora/Props/Meshes/Terminus_Paragon.Terminus_Paragon
+[2021.03.26-11.17.25:505][111]LogMaterial: Display: Missing cached shader map for material M_Turret_WIP, compiling. 
+[2021.03.26-11.17.25:560][111]LogStaticMesh: SM_Turret 스태틱 메시 빌드중...
+[2021.03.26-11.17.25:810][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4407
+[2021.03.26-11.17.25:815][111]LogStaticMesh: Built static mesh [0.25s] /Game/ParagonProps/Agora/Props/Meshes/SM_Turret.SM_Turret
+[2021.03.26-11.17.25:819][111]LogMaterial: Display: Missing cached shader map for material M_DinoNest, compiling. 
+[2021.03.26-11.17.26:116][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4441
+[2021.03.26-11.17.26:116][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4431
+[2021.03.26-11.17.26:116][111]LogStaticMesh: Dino_Nest_Piece_C 스태틱 메시 빌드중...
+[2021.03.26-11.17.27:520][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4421
+[2021.03.26-11.17.27:904][111]LogStaticMesh: Built static mesh [1.79s] /Game/ParagonProps/Agora/Props/Meshes/Dino_Nest_Piece_C.Dino_Nest_Piece_C
+[2021.03.26-11.17.27:928][111]LogMaterial: Display: Missing cached shader map for material MM_Marble_Metal_Arch, compiling. 
+[2021.03.26-11.17.28:034][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4411
+[2021.03.26-11.17.28:034][111]LogStaticMesh: Base_Wall_Piece_Metal_B 스태틱 메시 빌드중...
+[2021.03.26-11.17.28:802][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4533
+[2021.03.26-11.17.28:802][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4523
+[2021.03.26-11.17.28:809][111]LogStaticMesh: Built static mesh [0.78s] /Game/ParagonProps/Agora/Props/Meshes/Base_Wall_Piece_Metal_B.Base_Wall_Piece_Metal_B
+[2021.03.26-11.17.28:816][111]LogMaterial: Display: Missing cached shader map for material MM_MossRocks, compiling. 
+[2021.03.26-11.17.29:131][111]LogTexture: Display: 텍스처 빌드: T_Glansgruvan_Rock_1_m (DXT1, 2048X2048)
+[2021.03.26-11.17.30:151][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4660
+[2021.03.26-11.17.30:160][111]LogMaterial: Display: Missing cached shader map for material MM_MossRocks, compiling. 
+[2021.03.26-11.17.30:407][111]LogStaticMesh: Base_Wall_Piece_K 스태틱 메시 빌드중...
+[2021.03.26-11.17.31:733][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4797
+[2021.03.26-11.17.31:733][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4787
+[2021.03.26-11.17.32:414][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4777
+[2021.03.26-11.17.32:414][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4767
+[2021.03.26-11.17.33:158][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4757
+[2021.03.26-11.17.33:175][111]LogStaticMesh: Built static mesh [2.77s] /Game/ParagonProps/Agora/Props/Meshes/Base_Wall_Piece_K.Base_Wall_Piece_K
+[2021.03.26-11.17.33:270][111]LogStaticMesh: Base_Wall_Piece_J_B 스태틱 메시 빌드중...
+[2021.03.26-11.17.33:906][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4747
+[2021.03.26-11.17.34:092][111]LogStaticMesh: Built static mesh [0.82s] /Game/ParagonProps/Agora/Props/Meshes/Base_Wall_Piece_J_B.Base_Wall_Piece_J_B
+[2021.03.26-11.17.34:174][111]LogStaticMesh: Base_Wall_Piece_F 스태틱 메시 빌드중...
+[2021.03.26-11.17.34:566][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4737
+[2021.03.26-11.17.34:784][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4727
+[2021.03.26-11.17.35:005][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4717
+[2021.03.26-11.17.35:015][111]LogStaticMesh: Built static mesh [0.84s] /Game/ParagonProps/Agora/Props/Meshes/Base_Wall_Piece_F.Base_Wall_Piece_F
+[2021.03.26-11.17.39:392][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4707
+[2021.03.26-11.17.39:392][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4697
+[2021.03.26-11.17.39:392][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4687
+[2021.03.26-11.17.39:392][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4677
+[2021.03.26-11.17.39:392][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4667
+[2021.03.26-11.17.39:392][111]LogTexture: Display: 텍스처 빌드: T_Vegetation_Debris_002_D_R (AutoDXT, 8192X8192)
+[2021.03.26-11.18.02:189][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4657
+[2021.03.26-11.18.02:189][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4647
+[2021.03.26-11.18.02:189][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4637
+[2021.03.26-11.18.02:189][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4627
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4617
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4607
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4597
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4587
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4577
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4567
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4557
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4547
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4537
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4527
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4517
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4507
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4497
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4487
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4477
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4467
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4457
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4447
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4437
+[2021.03.26-11.18.02:190][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4427
+[2021.03.26-11.18.02:297][111]LogStaticMesh: SM_Vegetation_Debris_002 스태틱 메시 빌드중...
+[2021.03.26-11.18.02:378][111]LogStaticMesh: Built static mesh [0.08s] /Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/SM_Vegetation_Debris_002.SM_Vegetation_Debris_002
+[2021.03.26-11.18.02:378][111]LogStaticMesh: Warning: Mesh SM_Vegetation_Debris_002 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/SM_Vegetation_Debris_002.SM_Vegetation_Debris_002.
+[2021.03.26-11.18.06:778][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4417
+[2021.03.26-11.18.06:778][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4407
+[2021.03.26-11.18.06:778][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4397
+[2021.03.26-11.18.06:778][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4387
+[2021.03.26-11.18.06:778][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4377
+[2021.03.26-11.18.06:778][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4367
+[2021.03.26-11.18.06:778][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4357
+[2021.03.26-11.18.06:778][111]LogTexture: Display: 텍스처 빌드: T_Tree_Stump_01_D_R (AutoDXT, 8192X8192)
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4347
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4337
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4327
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4317
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4307
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4297
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4287
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4277
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4267
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4257
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4247
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4237
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4227
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4217
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4207
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4197
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4187
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4177
+[2021.03.26-11.18.26:375][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4167
+[2021.03.26-11.18.26:509][111]LogStaticMesh: Tree_Stump_01 스태틱 메시 빌드중...
+[2021.03.26-11.18.26:588][111]LogStaticMesh: Built static mesh [0.08s] /Game/KiteDemo/Environments/Trees/Tree_Stump_01/Tree_Stump_01.Tree_Stump_01
+[2021.03.26-11.18.26:588][111]LogStaticMesh: Warning: Mesh Tree_Stump_01 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Trees/Tree_Stump_01/Tree_Stump_01.Tree_Stump_01.
+[2021.03.26-11.18.26:636][111]LogMaterial: Display: Missing cached shader map for material ScotsPineTall_01_Billboard_Mat, compiling. 
+[2021.03.26-11.18.26:919][111]LogStaticMesh: ScotsPineTall_01 스태틱 메시 빌드중...
+[2021.03.26-11.18.27:765][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4203
+[2021.03.26-11.18.27:765][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4193
+[2021.03.26-11.18.28:387][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4183
+[2021.03.26-11.18.28:656][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4173
+[2021.03.26-11.18.29:148][111]LogStaticMesh: Built static mesh [2.23s] /Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01.ScotsPineTall_01
+[2021.03.26-11.18.29:223][111]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Leaves_Mat, compiling. 
+[2021.03.26-11.18.29:242][111]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Fronds_Mat, compiling. 
+[2021.03.26-11.18.29:260][111]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Billboard_Mat, compiling. 
+[2021.03.26-11.18.29:773][111]LogStaticMesh: ScotsPine_01 스태틱 메시 빌드중...
+[2021.03.26-11.18.30:355][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4297
+[2021.03.26-11.18.30:355][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4287
+[2021.03.26-11.18.32:122][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4277
+[2021.03.26-11.18.32:122][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4267
+[2021.03.26-11.18.33:164][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4257
+[2021.03.26-11.18.33:817][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4247
+[2021.03.26-11.18.33:817][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4237
+[2021.03.26-11.18.34:578][111]LogStaticMesh: Built static mesh [4.80s] /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01.ScotsPine_01
+[2021.03.26-11.18.34:756][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4227
+[2021.03.26-11.18.34:756][111]LogMaterial: Display: Missing cached shader map for material HillTree_Tall_01_Billboard_Mat, compiling. 
+[2021.03.26-11.18.35:423][111]LogTexture: Display: 텍스처 빌드: T_HillTree_01_Atlas_Specular_Tex (AutoDXT, 4096X4096)
+[2021.03.26-11.18.38:209][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4309
+[2021.03.26-11.18.38:209][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4299
+[2021.03.26-11.18.38:224][111]LogMaterial: Display: Missing cached shader map for material HillTree_01_Leaves_Mat2, compiling. 
+[2021.03.26-11.18.38:262][111]LogMaterial: Display: Missing cached shader map for material HillTree_01_Branches_Mat, compiling. 
+[2021.03.26-11.18.38:296][111]LogMaterial: Display: Missing cached shader map for material HillTree_01_Branches_2_Mat, compiling. 
+[2021.03.26-11.18.38:685][111]LogStaticMesh: HillTree_Tall_02 스태틱 메시 빌드중...
