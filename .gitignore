@@ -5,9 +5,9 @@ DerivedDataCache/
 Intermediate/
 
 #Save Files#
-Content/
 
 #Asset Files#
+Content/
 
 #VS Generated Files#
 .vs/
