@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
+#include "Project_Omega.h"
 #include "GameFramework/GameModeBase.h"
 #include "Project_OmegaGameModeBase.generated.h"
 
@@ -14,4 +14,6 @@ class PROJECT_OMEGA_API AProject_OmegaGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
+public:
+	AProject_OmegaGameModeBase();
 };
