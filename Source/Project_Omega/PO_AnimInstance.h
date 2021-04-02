@@ -20,4 +20,5 @@ public:
 private:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Pawn, Meta = (AllowPrivateAccess = true))
 		float CurrentPawnSpeed;
+
 };
