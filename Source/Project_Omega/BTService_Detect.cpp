@@ -5,15 +5,12 @@
 #include "PO_Monster_AIController.h"
 #include "BehaviorTree/BlackboardComponent.h"
 #include "DrawDebugHelpers.h"
+#include "PO_Character.h"
 
 UBTService_Detect::UBTService_Detect()
 {
 	NodeName = TEXT("Detect");
 	Interval = 1.0f;
-
-	ConstructorHelpers::FObjectFinder<UBlueprint> BP_Load(TEXT("Blueprint'/Game/Blueprint/Character/BP_Omega_Character.BP_Omega_Character'"));
-	if (BP_Load.Object != nullptr)
-		PO_Player = (UClass*)BP_Load.Object->GeneratedClass;
 }
 
 void UBTService_Detect::TickNode(UBehaviorTreeComponent& OwnerComp, uint8* NodeMemory, float DeltaSeconds)
@@ -29,7 +26,7 @@ void UBTService_Detect::TickNode(UBehaviorTreeComponent& OwnerComp, uint8* NodeM
 
 	UWorld* World = ControllingPawn->GetWorld();
 	FVector Center = ControllingPawn->GetActorLocation();
-	float DetectRadius = 600.0f;
+	float DetectRadius = 1500.0f;
 
 	if (nullptr == World)
 	{
@@ -50,7 +47,17 @@ void UBTService_Detect::TickNode(UBehaviorTreeComponent& OwnerComp, uint8* NodeM
 	{
 		for (auto const& OLR : OverlapResults)
 		{
-			OwnerComp.GetBlackboardComponent()->SetValueAsObject(APO_Monster_AIController::TargetKey, nullptr);
+			APO_Character* POPC = Cast<APO_Character>(OLR.GetActor());
+
+			if (POPC && POPC->GetController()->IsPlayerController())
+			{
+				OwnerComp.GetBlackboardComponent()->SetValueAsObject(APO_Monster_AIController::TargetKey, POPC);
+				DrawDebugSphere(World, Center, DetectRadius, 16, FColor::Green, false, 0.2f);
+
+				DrawDebugPoint(World, POPC->GetActorLocation(), 10.0f, FColor::Blue, false, 0.2f);
+
+				return;
+			}
 		}
 	}
 
