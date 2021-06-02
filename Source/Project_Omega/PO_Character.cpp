@@ -34,5 +34,6 @@ void APO_Character::SetupPlayerInputComponent(UInputComponent* PlayerInputCompon
 
 void APO_Character::Attack()
 {
+	UE_LOG(Project_Omega, Warning, TEXT("PO_Character | Attack() "));
 }
 

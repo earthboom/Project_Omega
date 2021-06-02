@@ -31,4 +31,8 @@ public:
 	void Attack();
 
 	FOnAttackEndDelegate OnAttackEnd;
+
+private:
+	UPROPERTY(VisibleIntanceOnly, BlueprintReadOnly, Category = Attack, Meta = (AllowPrivateAccess = true))
+		bool IsAttacking;
 };
