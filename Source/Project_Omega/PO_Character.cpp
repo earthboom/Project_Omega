@@ -5,10 +5,10 @@
 
 // Sets default values
 APO_Character::APO_Character()
+	: m_pBT_Attack(nullptr)
 {
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
-
 }
 
 // Called when the game starts or when spawned
@@ -35,5 +35,12 @@ void APO_Character::SetupPlayerInputComponent(UInputComponent* PlayerInputCompon
 void APO_Character::Attack()
 {
 	UE_LOG(Project_Omega, Warning, TEXT("PO_Character | Attack() "));
+	IsAttacking = true;
+}
+
+void APO_Character::AttackEnd()
+{
+	UE_LOG(Project_Omega, Warning, TEXT("PO_Character | AttackEnd() "));
+	m_pBT_Attack->IsAttacking = false;
 }
 

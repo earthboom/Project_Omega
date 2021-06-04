@@ -4,9 +4,8 @@
 
 #include "Project_Omega.h"
 #include "GameFramework/Character.h"
+#include "BTTask_Attack.h"
 #include "PO_Character.generated.h"
-
-DECLARE_MULTICAST_DELEGATE(FOnAttackEndDelegate);
 
 UCLASS()
 class PROJECT_OMEGA_API APO_Character : public ACharacter
@@ -28,11 +27,16 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
-	void Attack();
+	UFUNCTION(BlueprintCallable, Category = "Char_Attack")
+		void Attack();
+	
+	UFUNCTION(BlueprintCallable, Category = "Char_Attack")
+		void AttackEnd();
 
-	FOnAttackEndDelegate OnAttackEnd;
-
-private:
-	UPROPERTY(VisibleIntanceOnly, BlueprintReadOnly, Category = Attack, Meta = (AllowPrivateAccess = true))
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		bool IsAttacking;
+
+	UBTTask_Attack* m_pBT_Attack;
+//private:
+//	UPROPERTY(VisibleIntanceOnly, BlueprintReadOnly, Category = Attack, Meta = (AllowPrivateAccess = true))
 };
