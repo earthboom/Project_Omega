@@ -29,11 +29,14 @@ EBTNodeResult::Type UMyBTTaskNode_TurnToTarget::ExecuteTask(UBehaviorTreeCompone
 		return EBTNodeResult::Failed;
 	}
 
-	FVector LookVector = Target->GetActorLocation() - PO_Char->GetActorLocation();
-	LookVector.Z = 0.0f;
-	FRotator TargetRot = FRotationMatrix::MakeFromX(LookVector).Rotator();
+	if (!PO_Char->IsAttacking)
+	{
+		FVector LookVector = Target->GetActorLocation() - PO_Char->GetActorLocation();
+		LookVector.Z = 0.0f;
+		FRotator TargetRot = FRotationMatrix::MakeFromX(LookVector).Rotator();
 
-	PO_Char->SetActorRotation(FMath::RInterpTo(PO_Char->GetActorRotation(), TargetRot, GetWorld()->GetDeltaSeconds(), 2.0f));
+		PO_Char->SetActorRotation(FMath::RInterpTo(PO_Char->GetActorRotation(), TargetRot, GetWorld()->GetDeltaSeconds(), 2.0f));
+	}	
 
 	return EBTNodeResult::Succeeded;
 }
